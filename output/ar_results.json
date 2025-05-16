@@ -1,0 +1,4148 @@
+{
+  "status": "optimal",
+  "objective_value": 85357.48991355949,
+  "key_metrics": {
+    "total_collections": 3953.0,
+    "collection_rate": 0.00038751106289923204,
+    "avg_days_to_collection": 0.9999999999999997,
+    "max_financing": 0
+  },
+  "action_plan": [
+    {
+      "invoice_id": "KSPL-2324-2395",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 50216.9235,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2324-2395",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2324-2395",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2324-2431",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 16381.297,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2324-2431",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2324-2431",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2425-2437",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 10692.45,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2425-2437",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2425-2437",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2425-2456",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2425-2456",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 45175.600000000006,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2425-2456",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2425-2470",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2425-2470",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 27678.800000000003,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2425-2470",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2425-2486",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2425-2486",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 32294.4,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2425-2486",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2425-2500",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2425-2500",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 35891.200000000004,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2425-2500",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2425-2518",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2425-2518",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 32105.800000000003,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2425-2518",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2425-2532",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2425-2532",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 34896.200000000004,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2425-2532",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2526-0015",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2526-0015",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 34784.200000000004,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2526-0015",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2526-0010",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2526-0010",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 440566.2,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2526-0010",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2324-2372",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 261.8145,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2324-2372",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2324-2372",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2324-2380",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 215.35000000000002,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2324-2380",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2324-2380",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2425-2410",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 16.303,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2425-2410",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2425-2410",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2425-2417",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 3.199,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2425-2417",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2425-2417",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2425-2422",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2425-2422",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 461.24,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2425-2422",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2425-2423",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 1.7774999999999999,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2425-2423",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2425-2423",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2425-2432",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 274542.3765,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2425-2432",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2425-2432",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2425-2434",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 8438.685,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2425-2434",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2425-2434",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2425-2450",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2425-2450",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 2750.58,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2425-2450",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2425-2451",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2425-2451",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 2750.58,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2425-2451",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2425-2464",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 2072.8469999999998,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2425-2464",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 2500.786036618113,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2425-2464",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2425-2465",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 9060.036,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2425-2465",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 10930.479442070457,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2425-2465",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2425-2480",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2425-2480",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 8430.0,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2425-2480",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2425-2484",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 2042.9279999999999,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2425-2484",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2425-2484",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2425-2492",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2425-2492",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 8430.0,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2425-2492",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2425-2506",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2425-2506",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 514.2,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2425-2506",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2526-0008",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2526-0008",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 8430.0,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2526-0008",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2526-0011",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2526-0011",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 1243.8400000000001,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2526-0011",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2526-0012",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2526-0012",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 3360.264,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2526-0012",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2425-2514",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 11562.25,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2425-2514",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2425-2514",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2526-0002",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 16335.645000000002,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2526-0002",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2526-0002",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2526-0005",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2526-0005",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 119392.488,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2526-0005",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2526-00014",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2526-00014",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 50957.672,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2526-00014",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2526-0004",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2526-0004",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 125239.39199999999,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2526-0004",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2526-00013",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2526-00013",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 56267.592000000004,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2526-00013",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2425-2466",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 5900.0,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2425-2466",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2425-2466",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2425-2526",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 8429.95,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2425-2526",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2425-2526",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2526-0009",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2526-0009",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 33719.8,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2526-0009",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2526-00015",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2526-00015",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 39961.4,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2526-00015",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2425-2522",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2425-2522",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 1414.0,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2425-2522",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2526-0006",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2526-0006",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 73761.8,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2526-0006",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2324-2338",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 434.74399999999997,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2324-2338",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2324-2338",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2324-2339",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 1250.0,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2324-2339",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2324-2339",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2324-2350",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 1250.0,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2324-2350",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2324-2350",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2324-2351",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 3359.85,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2324-2351",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2324-2351",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2324-2356",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 1250.0,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2324-2356",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2324-2356",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2324-2357",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 2240.3,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2324-2357",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2324-2357",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2324-2301",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 1068.25,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2324-2301",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2324-2301",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2324-2305",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 1113.8535,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2324-2305",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2324-2305",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2425-2412",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 2314.064,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2425-2412",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2425-2412",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2425-2419",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 925.0,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2425-2419",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2425-2419",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2425-2428",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 177.59000000000003,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2425-2428",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2425-2428",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2526-0003",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2526-0003",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 6796.8,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2526-0003",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2526-0007",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2526-0007",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 31612.2,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2526-0007",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2324-2334",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 228.45,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2324-2334",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 275.61347753375327,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2324-2334",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2324-2355",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 33.75,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2324-2355",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2324-2355",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2425-2516",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 308.25,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2425-2516",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2425-2516",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    },
+    {
+      "invoice_id": "KSPL-2324-2328",
+      "action": "reminder",
+      "day": 1,
+      "cost": 2,
+      "expected_effect": 1.125,
+      "relationship_impact": -0.05
+    },
+    {
+      "invoice_id": "KSPL-2324-2328",
+      "action": "call",
+      "day": 1,
+      "cost": 15,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.15
+    },
+    {
+      "invoice_id": "KSPL-2324-2328",
+      "action": "escalate",
+      "day": 1,
+      "cost": 50,
+      "expected_effect": 0.0,
+      "relationship_impact": -0.4
+    }
+  ],
+  "ar_decisions": [
+    {
+      "invoice_id": "KSPL-2324-2395",
+      "amount": 334779.49,
+      "due_date": 8,
+      "customer_id": "cust_0",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000117023",
+      "business_entity": "Kensium  LLC",
+      "total_invoices": 26,
+      "total_invoiced_original": 8019922.49,
+      "total_paid_original": 5929537.06,
+      "total_balance_original": 2090385.43,
+      "days_overdue": 7,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 83.611363,
+      "invoice_number": "KSPL-2324-2395",
+      "total_original": 334779.49,
+      "currency_code": "USD",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2324-2395",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 50216.9235,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2324-2395",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2324-2395",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2324-2431",
+      "amount": 327625.94,
+      "due_date": 18,
+      "customer_id": "cust_1",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000117023",
+      "business_entity": "Kensium  LLC",
+      "total_invoices": 26,
+      "total_invoiced_original": 8019922.49,
+      "total_paid_original": 5929537.06,
+      "total_balance_original": 2090385.43,
+      "days_overdue": 17,
+      "paid_amount_original": 1159.0599999999977,
+      "exchange_rate": 83.88565,
+      "invoice_number": "KSPL-2324-2431",
+      "total_original": 328785.0,
+      "currency_code": "USD",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2324-2431",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 16381.297,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2324-2431",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2324-2431",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2425-2437",
+      "amount": 213849.0,
+      "due_date": 18,
+      "customer_id": "cust_2",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000117023",
+      "business_entity": "Kensium  LLC",
+      "total_invoices": 26,
+      "total_invoiced_original": 8019922.49,
+      "total_paid_original": 5929537.06,
+      "total_balance_original": 2090385.43,
+      "days_overdue": 17,
+      "paid_amount_original": 50000.0,
+      "exchange_rate": 83.7888,
+      "invoice_number": "KSPL-2425-2437",
+      "total_original": 263849.0,
+      "currency_code": "USD",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2425-2437",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 10692.45,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2425-2437",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2425-2437",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2425-2456",
+      "amount": 225878.0,
+      "due_date": 1,
+      "customer_id": "cust_3",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000117023",
+      "business_entity": "Kensium  LLC",
+      "total_invoices": 26,
+      "total_invoiced_original": 8019922.49,
+      "total_paid_original": 5929537.06,
+      "total_balance_original": 2090385.43,
+      "days_overdue": -14,
+      "paid_amount_original": 49965.0,
+      "exchange_rate": 84.0886,
+      "invoice_number": "KSPL-2425-2456",
+      "total_original": 275843.0,
+      "currency_code": "USD",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2425-2456",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2425-2456",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 45175.600000000006,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2425-2456",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2425-2470",
+      "amount": 138394.0,
+      "due_date": 1,
+      "customer_id": "cust_4",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000117023",
+      "business_entity": "Kensium  LLC",
+      "total_invoices": 26,
+      "total_invoiced_original": 8019922.49,
+      "total_paid_original": 5929537.06,
+      "total_balance_original": 2090385.43,
+      "days_overdue": -12,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 84.4971,
+      "invoice_number": "KSPL-2425-2470",
+      "total_original": 138394.0,
+      "currency_code": "USD",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2425-2470",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2425-2470",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 27678.800000000003,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2425-2470",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2425-2486",
+      "amount": 161472.0,
+      "due_date": 1,
+      "customer_id": "cust_5",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000117023",
+      "business_entity": "Kensium  LLC",
+      "total_invoices": 26,
+      "total_invoiced_original": 8019922.49,
+      "total_paid_original": 5929537.06,
+      "total_balance_original": 2090385.43,
+      "days_overdue": -14,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 85.6232,
+      "invoice_number": "KSPL-2425-2486",
+      "total_original": 161472.0,
+      "currency_code": "USD",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2425-2486",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2425-2486",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 32294.4,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2425-2486",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2425-2500",
+      "amount": 179456.0,
+      "due_date": 1,
+      "customer_id": "cust_6",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000117023",
+      "business_entity": "Kensium  LLC",
+      "total_invoices": 26,
+      "total_invoiced_original": 8019922.49,
+      "total_paid_original": 5929537.06,
+      "total_balance_original": 2090385.43,
+      "days_overdue": -14,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 86.6414,
+      "invoice_number": "KSPL-2425-2500",
+      "total_original": 179456.0,
+      "currency_code": "USD",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2425-2500",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2425-2500",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 35891.200000000004,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2425-2500",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2425-2518",
+      "amount": 160529.0,
+      "due_date": 1,
+      "customer_id": "cust_7",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000117023",
+      "business_entity": "Kensium  LLC",
+      "total_invoices": 26,
+      "total_invoiced_original": 8019922.49,
+      "total_paid_original": 5929537.06,
+      "total_balance_original": 2090385.43,
+      "days_overdue": -11,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 87.4006,
+      "invoice_number": "KSPL-2425-2518",
+      "total_original": 160529.0,
+      "currency_code": "USD",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2425-2518",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2425-2518",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 32105.800000000003,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2425-2518",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2425-2532",
+      "amount": 174481.0,
+      "due_date": 1,
+      "customer_id": "cust_8",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000117023",
+      "business_entity": "Kensium  LLC",
+      "total_invoices": 26,
+      "total_invoiced_original": 8019922.49,
+      "total_paid_original": 5929537.06,
+      "total_balance_original": 2090385.43,
+      "days_overdue": -12,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 85.429165,
+      "invoice_number": "KSPL-2425-2532",
+      "total_original": 174481.0,
+      "currency_code": "USD",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2425-2532",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2425-2532",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 34896.200000000004,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2425-2532",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2526-0015",
+      "amount": 173921.0,
+      "due_date": 1,
+      "customer_id": "cust_9",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000117023",
+      "business_entity": "Kensium  LLC",
+      "total_invoices": 26,
+      "total_invoiced_original": 8019922.49,
+      "total_paid_original": 5929537.06,
+      "total_balance_original": 2090385.43,
+      "days_overdue": -11,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 85.0535,
+      "invoice_number": "KSPL-2526-0015",
+      "total_original": 173921.0,
+      "currency_code": "USD",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2526-0015",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2526-0015",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 34784.200000000004,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2526-0015",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2526-0010",
+      "amount": 2202831.0,
+      "due_date": 1,
+      "customer_id": "cust_10",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000143017",
+      "business_entity": "Scalers Operations Pvt. Ltd",
+      "total_invoices": 13,
+      "total_invoiced_original": 11384209.48,
+      "total_paid_original": 9181378.48,
+      "total_balance_original": 2202831.0,
+      "days_overdue": -23,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2526-0010",
+      "total_original": 2202831.0,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2526-0010",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2526-0010",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 440566.2,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2526-0010",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2324-2372",
+      "amount": 5236.29,
+      "due_date": 16,
+      "customer_id": "cust_11",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000038948",
+      "business_entity": "Readywire Private Ltd",
+      "total_invoices": 49,
+      "total_invoiced_original": 5976789.99,
+      "total_paid_original": 3806369.92,
+      "total_balance_original": 2170420.07,
+      "days_overdue": 15,
+      "paid_amount_original": 24669.27,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2324-2372",
+      "total_original": 29905.56,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2324-2372",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 261.8145,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2324-2372",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2324-2372",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2324-2380",
+      "amount": 4307.0,
+      "due_date": 27,
+      "customer_id": "cust_12",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000038948",
+      "business_entity": "Readywire Private Ltd",
+      "total_invoices": 49,
+      "total_invoiced_original": 5976789.99,
+      "total_paid_original": 3806369.92,
+      "total_balance_original": 2170420.07,
+      "days_overdue": 26,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2324-2380",
+      "total_original": 4307.0,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2324-2380",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 215.35000000000002,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2324-2380",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2324-2380",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2425-2410",
+      "amount": 326.06,
+      "due_date": 25,
+      "customer_id": "cust_13",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000038948",
+      "business_entity": "Readywire Private Ltd",
+      "total_invoices": 49,
+      "total_invoiced_original": 5976789.99,
+      "total_paid_original": 3806369.92,
+      "total_balance_original": 2170420.07,
+      "days_overdue": 24,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2425-2410",
+      "total_original": 326.06,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2425-2410",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 16.303,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2425-2410",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2425-2410",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2425-2417",
+      "amount": 63.98,
+      "due_date": 18,
+      "customer_id": "cust_14",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000038948",
+      "business_entity": "Readywire Private Ltd",
+      "total_invoices": 49,
+      "total_invoiced_original": 5976789.99,
+      "total_paid_original": 3806369.92,
+      "total_balance_original": 2170420.07,
+      "days_overdue": 17,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2425-2417",
+      "total_original": 63.98,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2425-2417",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 3.199,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2425-2417",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2425-2417",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2425-2422",
+      "amount": 2306.2,
+      "due_date": 1,
+      "customer_id": "cust_15",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000038948",
+      "business_entity": "Readywire Private Ltd",
+      "total_invoices": 49,
+      "total_invoiced_original": 5976789.99,
+      "total_paid_original": 3806369.92,
+      "total_balance_original": 2170420.07,
+      "days_overdue": 0,
+      "paid_amount_original": 51662.600000000006,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2425-2422",
+      "total_original": 53968.8,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2425-2422",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2425-2422",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 461.24,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2425-2422",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2425-2423",
+      "amount": 35.55,
+      "due_date": 20,
+      "customer_id": "cust_16",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000038948",
+      "business_entity": "Readywire Private Ltd",
+      "total_invoices": 49,
+      "total_invoiced_original": 5976789.99,
+      "total_paid_original": 3806369.92,
+      "total_balance_original": 2170420.07,
+      "days_overdue": 19,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2425-2423",
+      "total_original": 35.55,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2425-2423",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 1.7774999999999999,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2425-2423",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2425-2423",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2425-2432",
+      "amount": 1830282.51,
+      "due_date": 8,
+      "customer_id": "cust_17",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000038948",
+      "business_entity": "Readywire Private Ltd",
+      "total_invoices": 49,
+      "total_invoiced_original": 5976789.99,
+      "total_paid_original": 3806369.92,
+      "total_balance_original": 2170420.07,
+      "days_overdue": 7,
+      "paid_amount_original": 1190055.95,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2425-2432",
+      "total_original": 3020338.46,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2425-2432",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 274542.3765,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2425-2432",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2425-2432",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2425-2434",
+      "amount": 56257.9,
+      "due_date": 7,
+      "customer_id": "cust_18",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000038948",
+      "business_entity": "Readywire Private Ltd",
+      "total_invoices": 49,
+      "total_invoiced_original": 5976789.99,
+      "total_paid_original": 3806369.92,
+      "total_balance_original": 2170420.07,
+      "days_overdue": 6,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2425-2434",
+      "total_original": 56257.9,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2425-2434",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 8438.685,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2425-2434",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2425-2434",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2425-2450",
+      "amount": 13752.9,
+      "due_date": 1,
+      "customer_id": "cust_19",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000038948",
+      "business_entity": "Readywire Private Ltd",
+      "total_invoices": 49,
+      "total_invoiced_original": 5976789.99,
+      "total_paid_original": 3806369.92,
+      "total_balance_original": 2170420.07,
+      "days_overdue": 0,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2425-2450",
+      "total_original": 13752.9,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2425-2450",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2425-2450",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 2750.58,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2425-2450",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2425-2451",
+      "amount": 13752.9,
+      "due_date": 1,
+      "customer_id": "cust_20",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000038948",
+      "business_entity": "Readywire Private Ltd",
+      "total_invoices": 49,
+      "total_invoiced_original": 5976789.99,
+      "total_paid_original": 3806369.92,
+      "total_balance_original": 2170420.07,
+      "days_overdue": 0,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2425-2451",
+      "total_original": 13752.9,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2425-2451",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2425-2451",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 2750.58,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2425-2451",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2425-2464",
+      "amount": 13818.98,
+      "due_date": 2,
+      "customer_id": "cust_21",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000038948",
+      "business_entity": "Readywire Private Ltd",
+      "total_invoices": 49,
+      "total_invoiced_original": 5976789.99,
+      "total_paid_original": 3806369.92,
+      "total_balance_original": 2170420.07,
+      "days_overdue": 1,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2425-2464",
+      "total_original": 13818.98,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2425-2464",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 2072.8469999999998,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2425-2464",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 2500.786036618113,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2425-2464",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2425-2465",
+      "amount": 60400.24,
+      "due_date": 2,
+      "customer_id": "cust_22",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000038948",
+      "business_entity": "Readywire Private Ltd",
+      "total_invoices": 49,
+      "total_invoiced_original": 5976789.99,
+      "total_paid_original": 3806369.92,
+      "total_balance_original": 2170420.07,
+      "days_overdue": 1,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2425-2465",
+      "total_original": 60400.24,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2425-2465",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 9060.036,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2425-2465",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 10930.479442070457,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2425-2465",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2425-2480",
+      "amount": 42150.0,
+      "due_date": 1,
+      "customer_id": "cust_23",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000038948",
+      "business_entity": "Readywire Private Ltd",
+      "total_invoices": 49,
+      "total_invoiced_original": 5976789.99,
+      "total_paid_original": 3806369.92,
+      "total_balance_original": 2170420.07,
+      "days_overdue": 0,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2425-2480",
+      "total_original": 42150.0,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2425-2480",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2425-2480",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 8430.0,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2425-2480",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2425-2484",
+      "amount": 40858.56,
+      "due_date": 30,
+      "customer_id": "cust_24",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000038948",
+      "business_entity": "Readywire Private Ltd",
+      "total_invoices": 49,
+      "total_invoiced_original": 5976789.99,
+      "total_paid_original": 3806369.92,
+      "total_balance_original": 2170420.07,
+      "days_overdue": 29,
+      "paid_amount_original": 28171.440000000002,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2425-2484",
+      "total_original": 69030.0,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2425-2484",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 2042.9279999999999,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2425-2484",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2425-2484",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2425-2492",
+      "amount": 42150.0,
+      "due_date": 1,
+      "customer_id": "cust_25",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000038948",
+      "business_entity": "Readywire Private Ltd",
+      "total_invoices": 49,
+      "total_invoiced_original": 5976789.99,
+      "total_paid_original": 3806369.92,
+      "total_balance_original": 2170420.07,
+      "days_overdue": 0,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2425-2492",
+      "total_original": 42150.0,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2425-2492",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2425-2492",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 8430.0,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2425-2492",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2425-2506",
+      "amount": 2571.0,
+      "due_date": 1,
+      "customer_id": "cust_26",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000038948",
+      "business_entity": "Readywire Private Ltd",
+      "total_invoices": 49,
+      "total_invoiced_original": 5976789.99,
+      "total_paid_original": 3806369.92,
+      "total_balance_original": 2170420.07,
+      "days_overdue": 0,
+      "paid_amount_original": 39579.0,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2425-2506",
+      "total_original": 42150.0,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2425-2506",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2425-2506",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 514.2,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2425-2506",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2526-0008",
+      "amount": 42150.0,
+      "due_date": 1,
+      "customer_id": "cust_27",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000038948",
+      "business_entity": "Readywire Private Ltd",
+      "total_invoices": 49,
+      "total_invoiced_original": 5976789.99,
+      "total_paid_original": 3806369.92,
+      "total_balance_original": 2170420.07,
+      "days_overdue": 0,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2526-0008",
+      "total_original": 42150.0,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2526-0008",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2526-0008",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 8430.0,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2526-0008",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2526-0011",
+      "amount": 6219.2,
+      "due_date": 1,
+      "customer_id": "cust_28",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000002454001",
+      "business_entity": "UnifiCX Inc",
+      "total_invoices": 8,
+      "total_invoiced_original": 130403.3,
+      "total_paid_original": 107382.78,
+      "total_balance_original": 23020.52,
+      "days_overdue": 0,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 85.0535,
+      "invoice_number": "KSPL-2526-0011",
+      "total_original": 6219.2,
+      "currency_code": "USD",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2526-0011",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2526-0011",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 1243.8400000000001,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2526-0011",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2526-0012",
+      "amount": 16801.32,
+      "due_date": 1,
+      "customer_id": "cust_29",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000002454001",
+      "business_entity": "UnifiCX Inc",
+      "total_invoices": 8,
+      "total_invoiced_original": 130403.3,
+      "total_paid_original": 107382.78,
+      "total_balance_original": 23020.52,
+      "days_overdue": 0,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 85.0535,
+      "invoice_number": "KSPL-2526-0012",
+      "total_original": 16801.32,
+      "currency_code": "USD",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2526-0012",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2526-0012",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 3360.264,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2526-0012",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2425-2514",
+      "amount": 231245.0,
+      "due_date": 28,
+      "customer_id": "cust_30",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000001107003",
+      "business_entity": "247 Digitize Private Limited",
+      "total_invoices": 24,
+      "total_invoiced_original": 11529282.3,
+      "total_paid_original": 10119573.6,
+      "total_balance_original": 1409708.7,
+      "days_overdue": 27,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2425-2514",
+      "total_original": 231245.0,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2425-2514",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 11562.25,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2425-2514",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2425-2514",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2526-0002",
+      "amount": 326712.9,
+      "due_date": 30,
+      "customer_id": "cust_31",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000001107003",
+      "business_entity": "247 Digitize Private Limited",
+      "total_invoices": 24,
+      "total_invoiced_original": 11529282.3,
+      "total_paid_original": 10119573.6,
+      "total_balance_original": 1409708.7,
+      "days_overdue": 29,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2526-0002",
+      "total_original": 326712.9,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2526-0002",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 16335.645000000002,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2526-0002",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2526-0002",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2526-0005",
+      "amount": 596962.44,
+      "due_date": 1,
+      "customer_id": "cust_32",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000001107003",
+      "business_entity": "247 Digitize Private Limited",
+      "total_invoices": 24,
+      "total_invoiced_original": 11529282.3,
+      "total_paid_original": 10119573.6,
+      "total_balance_original": 1409708.7,
+      "days_overdue": 0,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2526-0005",
+      "total_original": 596962.44,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2526-0005",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2526-0005",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 119392.488,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2526-0005",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2526-00014",
+      "amount": 254788.36,
+      "due_date": 1,
+      "customer_id": "cust_33",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000001107003",
+      "business_entity": "247 Digitize Private Limited",
+      "total_invoices": 24,
+      "total_invoiced_original": 11529282.3,
+      "total_paid_original": 10119573.6,
+      "total_balance_original": 1409708.7,
+      "days_overdue": -2,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2526-00014",
+      "total_original": 254788.36,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2526-00014",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2526-00014",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 50957.672,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2526-00014",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2526-0004",
+      "amount": 626196.96,
+      "due_date": 1,
+      "customer_id": "cust_34",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000002818018",
+      "business_entity": "Net at Work India Private Limited",
+      "total_invoices": 4,
+      "total_invoiced_original": 5612171.99,
+      "total_paid_original": 4704637.07,
+      "total_balance_original": 907534.92,
+      "days_overdue": 0,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2526-0004",
+      "total_original": 626196.96,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2526-0004",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2526-0004",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 125239.39199999999,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2526-0004",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2526-00013",
+      "amount": 281337.96,
+      "due_date": 1,
+      "customer_id": "cust_35",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000002818018",
+      "business_entity": "Net at Work India Private Limited",
+      "total_invoices": 4,
+      "total_invoiced_original": 5612171.99,
+      "total_paid_original": 4704637.07,
+      "total_balance_original": 907534.92,
+      "days_overdue": -2,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2526-00013",
+      "total_original": 281337.96,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2526-00013",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2526-00013",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 56267.592000000004,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2526-00013",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2425-2466",
+      "amount": 118000.0,
+      "due_date": 19,
+      "customer_id": "cust_36",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000002112001",
+      "business_entity": "ProFinTech Technologies Pvt Ltd.",
+      "total_invoices": 10,
+      "total_invoiced_original": 1357642.34,
+      "total_paid_original": 702637.34,
+      "total_balance_original": 655005.0,
+      "days_overdue": 18,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2425-2466",
+      "total_original": 118000.0,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2425-2466",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 5900.0,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2425-2466",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2425-2466",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2425-2526",
+      "amount": 168599.0,
+      "due_date": 16,
+      "customer_id": "cust_37",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000002112001",
+      "business_entity": "ProFinTech Technologies Pvt Ltd.",
+      "total_invoices": 10,
+      "total_invoiced_original": 1357642.34,
+      "total_paid_original": 702637.34,
+      "total_balance_original": 655005.0,
+      "days_overdue": 15,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2425-2526",
+      "total_original": 168599.0,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2425-2526",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 8429.95,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2425-2526",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2425-2526",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2526-0009",
+      "amount": 168599.0,
+      "due_date": 1,
+      "customer_id": "cust_38",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000002112001",
+      "business_entity": "ProFinTech Technologies Pvt Ltd.",
+      "total_invoices": 10,
+      "total_invoiced_original": 1357642.34,
+      "total_paid_original": 702637.34,
+      "total_balance_original": 655005.0,
+      "days_overdue": -15,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2526-0009",
+      "total_original": 168599.0,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2526-0009",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2526-0009",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 33719.8,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2526-0009",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2526-00015",
+      "amount": 199807.0,
+      "due_date": 1,
+      "customer_id": "cust_39",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000002112001",
+      "business_entity": "ProFinTech Technologies Pvt Ltd.",
+      "total_invoices": 10,
+      "total_invoiced_original": 1357642.34,
+      "total_paid_original": 702637.34,
+      "total_balance_original": 655005.0,
+      "days_overdue": -24,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2526-00015",
+      "total_original": 199807.0,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2526-00015",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2526-00015",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 39961.4,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2526-00015",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2425-2522",
+      "amount": 7070.0,
+      "due_date": 1,
+      "customer_id": "cust_40",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000001758001",
+      "business_entity": "Net at Work LLC",
+      "total_invoices": 25,
+      "total_invoiced_original": 598387.82,
+      "total_paid_original": 591273.82,
+      "total_balance_original": 7114.0,
+      "days_overdue": 0,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 85.5814,
+      "invoice_number": "KSPL-2425-2522",
+      "total_original": 7070.0,
+      "currency_code": "USD",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2425-2522",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2425-2522",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 1414.0,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2425-2522",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2526-0006",
+      "amount": 368809.0,
+      "due_date": 1,
+      "customer_id": "cust_41",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000002121074",
+      "business_entity": "Opsmaven Services Private Limited",
+      "total_invoices": 7,
+      "total_invoiced_original": 2581677.62,
+      "total_paid_original": 2212868.62,
+      "total_balance_original": 368809.0,
+      "days_overdue": 0,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2526-0006",
+      "total_original": 368809.0,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2526-0006",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2526-0006",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 73761.8,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2526-0006",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2324-2338",
+      "amount": 4347.44,
+      "due_date": 11,
+      "customer_id": "cust_42",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000039398",
+      "business_entity": "The American India Foundation Trust",
+      "total_invoices": 34,
+      "total_invoiced_original": 6028117.4,
+      "total_paid_original": 5827898.31,
+      "total_balance_original": 200219.09,
+      "days_overdue": 10,
+      "paid_amount_original": 46956.6,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2324-2338",
+      "total_original": 51304.04,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2324-2338",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 434.74399999999997,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2324-2338",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2324-2338",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2324-2339",
+      "amount": 12500.0,
+      "due_date": 11,
+      "customer_id": "cust_43",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000039398",
+      "business_entity": "The American India Foundation Trust",
+      "total_invoices": 34,
+      "total_invoiced_original": 6028117.4,
+      "total_paid_original": 5827898.31,
+      "total_balance_original": 200219.09,
+      "days_overdue": 10,
+      "paid_amount_original": 135000.0,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2324-2339",
+      "total_original": 147500.0,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2324-2339",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 1250.0,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2324-2339",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2324-2339",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2324-2350",
+      "amount": 12500.0,
+      "due_date": 11,
+      "customer_id": "cust_44",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000039398",
+      "business_entity": "The American India Foundation Trust",
+      "total_invoices": 34,
+      "total_invoiced_original": 6028117.4,
+      "total_paid_original": 5827898.31,
+      "total_balance_original": 200219.09,
+      "days_overdue": 10,
+      "paid_amount_original": 135000.0,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2324-2350",
+      "total_original": 147500.0,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2324-2350",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 1250.0,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2324-2350",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2324-2350",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2324-2351",
+      "amount": 22399.0,
+      "due_date": 8,
+      "customer_id": "cust_45",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000039398",
+      "business_entity": "The American India Foundation Trust",
+      "total_invoices": 34,
+      "total_invoiced_original": 6028117.4,
+      "total_paid_original": 5827898.31,
+      "total_balance_original": 200219.09,
+      "days_overdue": 7,
+      "paid_amount_original": 241911.0,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2324-2351",
+      "total_original": 264310.0,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2324-2351",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 3359.85,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2324-2351",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2324-2351",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2324-2356",
+      "amount": 12500.0,
+      "due_date": 10,
+      "customer_id": "cust_46",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000039398",
+      "business_entity": "The American India Foundation Trust",
+      "total_invoices": 34,
+      "total_invoiced_original": 6028117.4,
+      "total_paid_original": 5827898.31,
+      "total_balance_original": 200219.09,
+      "days_overdue": 9,
+      "paid_amount_original": 135000.0,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2324-2356",
+      "total_original": 147500.0,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2324-2356",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 1250.0,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2324-2356",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2324-2356",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2324-2357",
+      "amount": 22403.0,
+      "due_date": 10,
+      "customer_id": "cust_47",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000039398",
+      "business_entity": "The American India Foundation Trust",
+      "total_invoices": 34,
+      "total_invoiced_original": 6028117.4,
+      "total_paid_original": 5827898.31,
+      "total_balance_original": 200219.09,
+      "days_overdue": 9,
+      "paid_amount_original": 241947.0,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2324-2357",
+      "total_original": 264350.0,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2324-2357",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 2240.3,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2324-2357",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2324-2357",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2324-2301",
+      "amount": 21365.0,
+      "due_date": 21,
+      "customer_id": "cust_48",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000039398",
+      "business_entity": "The American India Foundation Trust",
+      "total_invoices": 34,
+      "total_invoiced_original": 6028117.4,
+      "total_paid_original": 5827898.31,
+      "total_balance_original": 200219.09,
+      "days_overdue": 20,
+      "paid_amount_original": 231070.0,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2324-2301",
+      "total_original": 252435.0,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2324-2301",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 1068.25,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2324-2301",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2324-2301",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2324-2305",
+      "amount": 22277.07,
+      "due_date": 23,
+      "customer_id": "cust_49",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000039398",
+      "business_entity": "The American India Foundation Trust",
+      "total_invoices": 34,
+      "total_invoiced_original": 6028117.4,
+      "total_paid_original": 5827898.31,
+      "total_balance_original": 200219.09,
+      "days_overdue": 22,
+      "paid_amount_original": 240585.34999999998,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2324-2305",
+      "total_original": 262862.42,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2324-2305",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 1113.8535,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2324-2305",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2324-2305",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2425-2412",
+      "amount": 23140.64,
+      "due_date": 12,
+      "customer_id": "cust_50",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000039398",
+      "business_entity": "The American India Foundation Trust",
+      "total_invoices": 34,
+      "total_invoiced_original": 6028117.4,
+      "total_paid_original": 5827898.31,
+      "total_balance_original": 200219.09,
+      "days_overdue": 11,
+      "paid_amount_original": 249909.66999999998,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2425-2412",
+      "total_original": 273050.31,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2425-2412",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 2314.064,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2425-2412",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2425-2412",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2425-2419",
+      "amount": 9250.0,
+      "due_date": 13,
+      "customer_id": "cust_51",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000039398",
+      "business_entity": "The American India Foundation Trust",
+      "total_invoices": 34,
+      "total_invoiced_original": 6028117.4,
+      "total_paid_original": 5827898.31,
+      "total_balance_original": 200219.09,
+      "days_overdue": 12,
+      "paid_amount_original": 263903.0,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2425-2419",
+      "total_original": 273153.0,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2425-2419",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 925.0,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2425-2419",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2425-2419",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2425-2428",
+      "amount": 3551.8,
+      "due_date": 20,
+      "customer_id": "cust_52",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000039398",
+      "business_entity": "The American India Foundation Trust",
+      "total_invoices": 34,
+      "total_invoiced_original": 6028117.4,
+      "total_paid_original": 5827898.31,
+      "total_balance_original": 200219.09,
+      "days_overdue": 19,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2425-2428",
+      "total_original": 3551.8,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2425-2428",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 177.59000000000003,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2425-2428",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2425-2428",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2526-0003",
+      "amount": 33984.0,
+      "due_date": 1,
+      "customer_id": "cust_53",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000039398",
+      "business_entity": "The American India Foundation Trust",
+      "total_invoices": 34,
+      "total_invoiced_original": 6028117.4,
+      "total_paid_original": 5827898.31,
+      "total_balance_original": 200219.09,
+      "days_overdue": -15,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2526-0003",
+      "total_original": 33984.0,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2526-0003",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2526-0003",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 6796.8,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2526-0003",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2526-0007",
+      "amount": 158061.0,
+      "due_date": 1,
+      "customer_id": "cust_54",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000037776",
+      "business_entity": "Digiteon Consulting Pvt Ltd",
+      "total_invoices": 7,
+      "total_invoiced_original": 1106432.36,
+      "total_paid_original": 948371.36,
+      "total_balance_original": 158061.0,
+      "days_overdue": 0,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2526-0007",
+      "total_original": 158061.0,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2526-0007",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2526-0007",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 31612.2,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2526-0007",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2324-2334",
+      "amount": 1523.0,
+      "due_date": 2,
+      "customer_id": "cust_55",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000114179",
+      "business_entity": "SMART PRO IT SOLUTIONS LLC",
+      "total_invoices": 5,
+      "total_invoiced_original": 4512.77,
+      "total_paid_original": 2764.0,
+      "total_balance_original": 1748.77,
+      "days_overdue": 1,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 82.9521,
+      "invoice_number": "KSPL-2324-2334",
+      "total_original": 1523.0,
+      "currency_code": "USD",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2324-2334",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 228.45,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2324-2334",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 275.61347753375327,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2324-2334",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2324-2355",
+      "amount": 225.0,
+      "due_date": 7,
+      "customer_id": "cust_56",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000114179",
+      "business_entity": "SMART PRO IT SOLUTIONS LLC",
+      "total_invoices": 5,
+      "total_invoiced_original": 4512.77,
+      "total_paid_original": 2764.0,
+      "total_balance_original": 1748.77,
+      "days_overdue": 6,
+      "paid_amount_original": 0.0,
+      "exchange_rate": 83.2542,
+      "invoice_number": "KSPL-2324-2355",
+      "total_original": 225.0,
+      "currency_code": "USD",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2324-2355",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 33.75,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2324-2355",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2324-2355",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2425-2516",
+      "amount": 6165.0,
+      "due_date": 20,
+      "customer_id": "cust_57",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000001928307",
+      "business_entity": "Optima Techno Services",
+      "total_invoices": 1,
+      "total_invoiced_original": 27615.0,
+      "total_paid_original": 21450.0,
+      "total_balance_original": 6165.0,
+      "days_overdue": 19,
+      "paid_amount_original": 21450.0,
+      "exchange_rate": 1.0,
+      "invoice_number": "KSPL-2425-2516",
+      "total_original": 27615.0,
+      "currency_code": "INR",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2425-2516",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 308.25,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2425-2516",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2425-2516",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    },
+    {
+      "invoice_id": "KSPL-2324-2328",
+      "amount": 22.5,
+      "due_date": 19,
+      "customer_id": "cust_58",
+      "customer_segment": "medium",
+      "customer_factor": "average",
+      "business_entity_id": "1218606000000113794",
+      "business_entity": "King Khalid Foundation",
+      "total_invoices": 1,
+      "total_invoiced_original": 630.0,
+      "total_paid_original": 607.5,
+      "total_balance_original": 22.5,
+      "days_overdue": 18,
+      "paid_amount_original": 607.5,
+      "exchange_rate": 82.176021,
+      "invoice_number": "KSPL-2324-2328",
+      "total_original": 630.0,
+      "currency_code": "USD",
+      "actions": [
+        {
+          "invoice_id": "KSPL-2324-2328",
+          "action": "reminder",
+          "day": 1,
+          "cost": 2,
+          "expected_effect": 1.125,
+          "relationship_impact": -0.05
+        },
+        {
+          "invoice_id": "KSPL-2324-2328",
+          "action": "call",
+          "day": 1,
+          "cost": 15,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.15
+        },
+        {
+          "invoice_id": "KSPL-2324-2328",
+          "action": "escalate",
+          "day": 1,
+          "cost": 50,
+          "expected_effect": 0.0,
+          "relationship_impact": -0.4
+        }
+      ]
+    }
+  ],
+  "collection_timing": {
+    "before_due": 3953.0,
+    "after_due": 0.0
+  }
+}

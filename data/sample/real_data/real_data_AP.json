@@ -1,0 +1,1776 @@
+﻿[
+  {
+    "business_entity": "ACUMATICA INC",
+    "business_entity_id": "1218606000000753015",
+    "total_invoices": 7,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 35065258.05,
+    "total_invoiced_inr": 35065258.05,
+    "total_paid_original": 10724711.89,
+    "total_paid_inr": 10724711.89,
+    "total_balance_original": 24340546.16,
+    "total_balance_inr": 24340546.16,
+    "due_invoices": [
+      {
+        "days_overdue": 21,
+        "paid_amount_original": 8414209.920000002,
+        "exchange_rate": 1.0,
+        "total_inr": 32059300.07,
+        "balance_original": 23645090.15,
+        "invoice_number": null,
+        "paid_amount_inr": 8414209.920000002,
+        "total_original": 32059300.07,
+        "currency_code": "INR",
+        "balance_inr": 23645090.15
+      },
+      {
+        "days_overdue": 21,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 695456.01,
+        "balance_original": 695456.01,
+        "invoice_number": null,
+        "paid_amount_inr": 0.0,
+        "total_original": 695456.01,
+        "currency_code": "INR",
+        "balance_inr": 695456.01
+      }
+    ]
+  },
+  {
+    "business_entity": "Viren Choudary (HUF)",
+    "business_entity_id": "1218606000000055924",
+    "total_invoices": 25,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 8100000.0,
+    "total_invoiced_inr": 8100000.0,
+    "total_paid_original": 7776000.0,
+    "total_paid_inr": 7776000.0,
+    "total_balance_original": 324000.0,
+    "total_balance_inr": 324000.0,
+    "due_invoices": [
+      {
+        "days_overdue": 14,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 324000.0,
+        "balance_original": 324000.0,
+        "invoice_number": null,
+        "paid_amount_inr": 0.0,
+        "total_original": 324000.0,
+        "currency_code": "INR",
+        "balance_inr": 324000.0
+      }
+    ]
+  },
+  {
+    "business_entity": "ISS Technologies",
+    "business_entity_id": "1218606000000050350",
+    "total_invoices": 22,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 6052752.8,
+    "total_invoiced_inr": 6052752.8,
+    "total_paid_original": 5782131.8,
+    "total_paid_inr": 5782131.8,
+    "total_balance_original": 270621.0,
+    "total_balance_inr": 270621.0,
+    "due_invoices": [
+      {
+        "days_overdue": 0,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 6729.0,
+        "balance_original": 6729.0,
+        "invoice_number": null,
+        "paid_amount_inr": 0.0,
+        "total_original": 6729.0,
+        "currency_code": "INR",
+        "balance_inr": 6729.0
+      },
+      {
+        "days_overdue": 19,
+        "paid_amount_original": 1555172.0,
+        "exchange_rate": 1.0,
+        "total_inr": 1819064.0,
+        "balance_original": 263892.0,
+        "invoice_number": null,
+        "paid_amount_inr": 1555172.0,
+        "total_original": 1819064.0,
+        "currency_code": "INR",
+        "balance_inr": 263892.0
+      }
+    ]
+  },
+  {
+    "business_entity": "ARC Property Solutions Pvt  Ltd",
+    "business_entity_id": "1218606000000047934",
+    "total_invoices": 27,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 2542733.44,
+    "total_invoiced_inr": 2542733.44,
+    "total_paid_original": 2366757.44,
+    "total_paid_inr": 2366757.44,
+    "total_balance_original": 175976.0,
+    "total_balance_inr": 175976.0,
+    "due_invoices": [
+      {
+        "days_overdue": 12,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 83729.0,
+        "balance_original": 83729.0,
+        "invoice_number": null,
+        "paid_amount_inr": 0.0,
+        "total_original": 83729.0,
+        "currency_code": "INR",
+        "balance_inr": 83729.0
+      },
+      {
+        "days_overdue": 12,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 92247.0,
+        "balance_original": 92247.0,
+        "invoice_number": null,
+        "paid_amount_inr": 0.0,
+        "total_original": 92247.0,
+        "currency_code": "INR",
+        "balance_inr": 92247.0
+      }
+    ]
+  },
+  {
+    "business_entity": "BigHub Solutions Private Limited",
+    "business_entity_id": "1218606000000048409",
+    "total_invoices": 2,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 254880.0,
+    "total_invoiced_inr": 254880.0,
+    "total_paid_original": 103840.0,
+    "total_paid_inr": 103840.0,
+    "total_balance_original": 151040.0,
+    "total_balance_inr": 151040.0,
+    "due_invoices": [
+      {
+        "days_overdue": 1,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 151040.0,
+        "balance_original": 151040.0,
+        "invoice_number": null,
+        "paid_amount_inr": 0.0,
+        "total_original": 151040.0,
+        "currency_code": "INR",
+        "balance_inr": 151040.0
+      }
+    ]
+  },
+  {
+    "business_entity": "KRB Owners Welfare Association",
+    "business_entity_id": "1218606000000051011",
+    "total_invoices": 75,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 7144345.24,
+    "total_invoiced_inr": 7144345.24,
+    "total_paid_original": 7013743.0,
+    "total_paid_inr": 7013743.0,
+    "total_balance_original": 130602.24,
+    "total_balance_inr": 130602.24,
+    "due_invoices": [
+      {
+        "days_overdue": 15,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 130602.24,
+        "balance_original": 130602.24,
+        "invoice_number": null,
+        "paid_amount_inr": 0.0,
+        "total_original": 130602.24,
+        "currency_code": "INR",
+        "balance_inr": 130602.24
+      }
+    ]
+  },
+  {
+    "business_entity": "Ontrack Energy Systems",
+    "business_entity_id": "1218606000000052210",
+    "total_invoices": 5,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 257240.0,
+    "total_invoiced_inr": 257240.0,
+    "total_paid_original": 225675.0,
+    "total_paid_inr": 225675.0,
+    "total_balance_original": 31565.0,
+    "total_balance_inr": 31565.0,
+    "due_invoices": [
+      {
+        "days_overdue": 11,
+        "paid_amount_original": 31565.0,
+        "exchange_rate": 1.0,
+        "total_inr": 63130.0,
+        "balance_original": 31565.0,
+        "invoice_number": null,
+        "paid_amount_inr": 31565.0,
+        "total_original": 63130.0,
+        "currency_code": "INR",
+        "balance_inr": 31565.0
+      }
+    ]
+  },
+  {
+    "business_entity": "Excel Facilities",
+    "business_entity_id": "1218606000002280036",
+    "total_invoices": 6,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 177407.0,
+    "total_invoiced_inr": 177407.0,
+    "total_paid_original": 147247.0,
+    "total_paid_inr": 147247.0,
+    "total_balance_original": 30160.0,
+    "total_balance_inr": 30160.0,
+    "due_invoices": [
+      {
+        "days_overdue": 13,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 30160.0,
+        "balance_original": 30160.0,
+        "invoice_number": null,
+        "paid_amount_inr": 0.0,
+        "total_original": 30160.0,
+        "currency_code": "INR",
+        "balance_inr": 30160.0
+      }
+    ]
+  },
+  {
+    "business_entity": "Sri Lakshmi Enterprises",
+    "business_entity_id": "1218606000000054546",
+    "total_invoices": 26,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 110565.0,
+    "total_invoiced_inr": 110565.0,
+    "total_paid_original": 98280.0,
+    "total_paid_inr": 98280.0,
+    "total_balance_original": 12285.0,
+    "total_balance_inr": 12285.0,
+    "due_invoices": [
+      {
+        "days_overdue": 15,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 5265.0,
+        "balance_original": 5265.0,
+        "invoice_number": null,
+        "paid_amount_inr": 0.0,
+        "total_original": 5265.0,
+        "currency_code": "INR",
+        "balance_inr": 5265.0
+      },
+      {
+        "days_overdue": 15,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 7020.0,
+        "balance_original": 7020.0,
+        "invoice_number": null,
+        "paid_amount_inr": 0.0,
+        "total_original": 7020.0,
+        "currency_code": "INR",
+        "balance_inr": 7020.0
+      }
+    ]
+  },
+  {
+    "business_entity": "OPTIMA TECHNO SERVICES",
+    "business_entity_id": "1218606000000052259",
+    "total_invoices": 16,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 94641.96,
+    "total_invoiced_inr": 94641.96,
+    "total_paid_original": 85829.96,
+    "total_paid_inr": 85829.96,
+    "total_balance_original": 8812.0,
+    "total_balance_inr": 8812.0,
+    "due_invoices": [
+      {
+        "days_overdue": 0,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 4800.0,
+        "balance_original": 4800.0,
+        "invoice_number": null,
+        "paid_amount_inr": 0.0,
+        "total_original": 4800.0,
+        "currency_code": "INR",
+        "balance_inr": 4800.0
+      },
+      {
+        "days_overdue": 0,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 4012.0,
+        "balance_original": 4012.0,
+        "invoice_number": null,
+        "paid_amount_inr": 0.0,
+        "total_original": 4012.0,
+        "currency_code": "INR",
+        "balance_inr": 4012.0
+      }
+    ]
+  },
+  {
+    "business_entity": "LEO MARKETING ENTERPRISES",
+    "business_entity_id": "1218606000000051329",
+    "total_invoices": 43,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 393548.6,
+    "total_invoiced_inr": 393548.6,
+    "total_paid_original": 386412.6,
+    "total_paid_inr": 386412.6,
+    "total_balance_original": 7136.0,
+    "total_balance_inr": 7136.0,
+    "due_invoices": [
+      {
+        "days_overdue": 11,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 7136.0,
+        "balance_original": 7136.0,
+        "invoice_number": null,
+        "paid_amount_inr": 0.0,
+        "total_original": 7136.0,
+        "currency_code": "INR",
+        "balance_inr": 7136.0
+      }
+    ]
+  },
+  {
+    "business_entity": "RD Solutions",
+    "business_entity_id": "1218606000000053315",
+    "total_invoices": 35,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 424089.8,
+    "total_invoiced_inr": 424089.8,
+    "total_paid_original": 421668.8,
+    "total_paid_inr": 421668.8,
+    "total_balance_original": 2421.0,
+    "total_balance_inr": 2421.0,
+    "due_invoices": [
+      {
+        "days_overdue": 22,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 2421.0,
+        "balance_original": 2421.0,
+        "invoice_number": null,
+        "paid_amount_inr": 0.0,
+        "total_original": 2421.0,
+        "currency_code": "INR",
+        "balance_inr": 2421.0
+      }
+    ]
+  },
+  {
+    "business_entity": "Paysquare Consultancy Limited",
+    "business_entity_id": "1218606000000052639",
+    "total_invoices": 19,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 289944.0,
+    "total_invoiced_inr": 289944.0,
+    "total_paid_original": 288600.0,
+    "total_paid_inr": 288600.0,
+    "total_balance_original": 1344.0,
+    "total_balance_inr": 1344.0,
+    "due_invoices": [
+      {
+        "days_overdue": 27,
+        "paid_amount_original": 18144.0,
+        "exchange_rate": 1.0,
+        "total_inr": 19488.0,
+        "balance_original": 1344.0,
+        "invoice_number": null,
+        "paid_amount_inr": 18144.0,
+        "total_original": 19488.0,
+        "currency_code": "INR",
+        "balance_inr": 1344.0
+      }
+    ]
+  },
+  {
+    "business_entity": "White Page Events & Entertainments",
+    "business_entity_id": "1218606000001467162",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 306720.0,
+    "total_invoiced_inr": 306720.0,
+    "total_paid_original": 306720.0,
+    "total_paid_inr": 306720.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Walnut Knowledge Solutions Private Limited",
+    "business_entity_id": "1218606000000056132",
+    "total_invoices": 2,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 100300.0,
+    "total_invoiced_inr": 100300.0,
+    "total_paid_original": 100300.0,
+    "total_paid_inr": 100300.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "VSS Rajan & Co",
+    "business_entity_id": "1218606000000387003",
+    "total_invoices": 13,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 452100.0,
+    "total_invoiced_inr": 452100.0,
+    "total_paid_original": 452100.0,
+    "total_paid_inr": 452100.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "VELOXTECH SOLUTIONS",
+    "business_entity_id": "1218606000000055809",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 439668.0,
+    "total_invoiced_inr": 439668.0,
+    "total_paid_original": 439668.0,
+    "total_paid_inr": 439668.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Vedart Ventures LLP",
+    "business_entity_id": "1218606000003063396",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 864000.0,
+    "total_invoiced_inr": 864000.0,
+    "total_paid_original": 864000.0,
+    "total_paid_inr": 864000.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Usharani M",
+    "business_entity_id": "1218606000002689001",
+    "total_invoices": 2,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 50000.0,
+    "total_invoiced_inr": 50000.0,
+    "total_paid_original": 50000.0,
+    "total_paid_inr": 50000.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "UPS Express Pvt Ltd",
+    "business_entity_id": "1218606000002924001",
+    "total_invoices": 2,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 11574.92,
+    "total_invoiced_inr": 11574.92,
+    "total_paid_original": 11574.92,
+    "total_paid_inr": 11574.92,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "UNITED INDIA INSURANCE COMPANY LIMITED",
+    "business_entity_id": "1218606000001293031",
+    "total_invoices": 2,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 6602.0,
+    "total_invoiced_inr": 6602.0,
+    "total_paid_original": 6602.0,
+    "total_paid_inr": 6602.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Unified Collaboration Services LLP",
+    "business_entity_id": "1218606000002184449",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 392987.0,
+    "total_invoiced_inr": 392987.0,
+    "total_paid_original": 392987.0,
+    "total_paid_inr": 392987.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Trundl Labs pvt Ltd",
+    "business_entity_id": "1218606000000350001",
+    "total_invoices": 4,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 12270466.6,
+    "total_invoiced_inr": 12270466.6,
+    "total_paid_original": 12270466.6,
+    "total_paid_inr": 12270466.6,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Touchstone Enterprises Pvt Ltd",
+    "business_entity_id": "1218606000000055398",
+    "total_invoices": 2,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 14000.0,
+    "total_invoiced_inr": 14000.0,
+    "total_paid_original": 14000.0,
+    "total_paid_inr": 14000.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Tikona Digital Networks Pvt Ltd",
+    "business_entity_id": "1218606000000055278",
+    "total_invoices": 3,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 10620.0,
+    "total_invoiced_inr": 10620.0,
+    "total_paid_original": 10620.0,
+    "total_paid_inr": 10620.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Teletronix Systems and Services",
+    "business_entity_id": "1218606000001907073",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 100131.0,
+    "total_invoiced_inr": 100131.0,
+    "total_paid_original": 100131.0,
+    "total_paid_inr": 100131.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Tata Teleservices Ltd",
+    "business_entity_id": "1218606000000055109",
+    "total_invoices": 34,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 923561.0,
+    "total_invoiced_inr": 923561.0,
+    "total_paid_original": 923561.0,
+    "total_paid_inr": 923561.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Swetha varadarajulu",
+    "business_entity_id": "1218606000001625075",
+    "total_invoices": 12,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 1782000.0,
+    "total_invoiced_inr": 1782000.0,
+    "total_paid_original": 1782000.0,
+    "total_paid_inr": 1782000.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Sri Chaitanya Computers",
+    "business_entity_id": "1218606000000054497",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 3545.0,
+    "total_invoiced_inr": 3545.0,
+    "total_paid_original": 3545.0,
+    "total_paid_inr": 3545.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Sri Balaji Mineral Water Supplier",
+    "business_entity_id": "1218606000000172325",
+    "total_invoices": 32,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 130908.0,
+    "total_invoiced_inr": 130908.0,
+    "total_paid_original": 130908.0,
+    "total_paid_inr": 130908.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Software Technology Parks of India",
+    "business_entity_id": "1218606000000054272",
+    "total_invoices": 2,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 540000.0,
+    "total_invoiced_inr": 540000.0,
+    "total_paid_original": 540000.0,
+    "total_paid_inr": 540000.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Simpliwork Offices Private Limited",
+    "business_entity_id": "1218606000002118009",
+    "total_invoices": 16,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 17401986.8,
+    "total_invoiced_inr": 17401986.8,
+    "total_paid_original": 17401986.8,
+    "total_paid_inr": 17401986.8,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Sidhaarth PG",
+    "business_entity_id": "1218606000000054103",
+    "total_invoices": 25,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 2952000.0,
+    "total_invoiced_inr": 2952000.0,
+    "total_paid_original": 2952000.0,
+    "total_paid_inr": 2952000.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Santosh Kalaimani",
+    "business_entity_id": "1218606000002751270",
+    "total_invoices": 4,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 647251.0,
+    "total_invoiced_inr": 647251.0,
+    "total_paid_original": 647251.0,
+    "total_paid_inr": 647251.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "S Ratna Surekha",
+    "business_entity_id": "1218606000000054409",
+    "total_invoices": 2,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 350000.0,
+    "total_invoiced_inr": 350000.0,
+    "total_paid_original": 350000.0,
+    "total_paid_inr": 350000.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "RANU PATEL",
+    "business_entity_id": "1218606000000053227",
+    "total_invoices": 2,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 23871.0,
+    "total_invoiced_inr": 23871.0,
+    "total_paid_original": 23871.0,
+    "total_paid_inr": 23871.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Proquest Consultancy Services Pvt Ltd",
+    "business_entity_id": "1218606000000052999",
+    "total_invoices": 20,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 42196.0,
+    "total_invoiced_inr": 42196.0,
+    "total_paid_original": 42196.0,
+    "total_paid_inr": 42196.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "PRIYANKA KALLEM",
+    "business_entity_id": "1218606000000207001",
+    "total_invoices": 5,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 343924.0,
+    "total_invoiced_inr": 343924.0,
+    "total_paid_original": 343924.0,
+    "total_paid_inr": 343924.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Priya Net Solutions",
+    "business_entity_id": "1218606000000052933",
+    "total_invoices": 4,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 527023.0,
+    "total_invoiced_inr": 527023.0,
+    "total_paid_original": 527023.0,
+    "total_paid_inr": 527023.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Pragati Enterprises",
+    "business_entity_id": "1218606000002192035",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 44415.0,
+    "total_invoiced_inr": 44415.0,
+    "total_paid_original": 44415.0,
+    "total_paid_inr": 44415.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Prachi Hemin Shah",
+    "business_entity_id": "1218606000002087200",
+    "total_invoices": 7,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 305871.0,
+    "total_invoiced_inr": 305871.0,
+    "total_paid_original": 305871.0,
+    "total_paid_inr": 305871.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "PK Consultants",
+    "business_entity_id": "1218606000000910031",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 5000.0,
+    "total_invoiced_inr": 5000.0,
+    "total_paid_original": 5000.0,
+    "total_paid_inr": 5000.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Pioneer Elabs Limited",
+    "business_entity_id": "1218606000001235001",
+    "total_invoices": 2,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 56626.0,
+    "total_invoiced_inr": 56626.0,
+    "total_paid_original": 56626.0,
+    "total_paid_inr": 56626.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Parking Chrgs-Srinivasa Bhargava Chandra Kamishetty",
+    "business_entity_id": "1218606000000052568",
+    "total_invoices": 4,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 15308.0,
+    "total_invoiced_inr": 15308.0,
+    "total_paid_original": 15308.0,
+    "total_paid_inr": 15308.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Parking Chargs-Venkata Krishna Chaitanya Kamishetty",
+    "business_entity_id": "1218606000000052541",
+    "total_invoices": 4,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 15308.0,
+    "total_invoiced_inr": 15308.0,
+    "total_paid_original": 15308.0,
+    "total_paid_inr": 15308.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Parking Charges-Raja Satya Venkata Badrinath",
+    "business_entity_id": "1218606000000052487",
+    "total_invoices": 4,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 77572.0,
+    "total_invoiced_inr": 77572.0,
+    "total_paid_original": 77572.0,
+    "total_paid_inr": 77572.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Parking Charges - Ramadevi Kamisetty",
+    "business_entity_id": "1218606000000052514",
+    "total_invoices": 4,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 20408.0,
+    "total_invoiced_inr": 20408.0,
+    "total_paid_original": 20408.0,
+    "total_paid_inr": 20408.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Parking Charges - MADALA MADHUSUDAN RAO",
+    "business_entity_id": "1218606000000052465",
+    "total_invoices": 4,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 56016.0,
+    "total_invoiced_inr": 56016.0,
+    "total_paid_original": 56016.0,
+    "total_paid_inr": 56016.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Parking Charges - MADALA HIMA BINDU",
+    "business_entity_id": "1218606000000052438",
+    "total_invoices": 4,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 56016.0,
+    "total_invoiced_inr": 56016.0,
+    "total_paid_original": 56016.0,
+    "total_paid_inr": 56016.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Parking Charges - KANTHETI SATISH",
+    "business_entity_id": "1218606000000052411",
+    "total_invoices": 4,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 83672.0,
+    "total_invoiced_inr": 83672.0,
+    "total_paid_original": 83672.0,
+    "total_paid_inr": 83672.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Parking Charges - KANTHETI PRATAP",
+    "business_entity_id": "1218606000000052384",
+    "total_invoices": 4,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 83672.0,
+    "total_invoiced_inr": 83672.0,
+    "total_paid_original": 83672.0,
+    "total_paid_inr": 83672.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Parking Charges - Gelli Srikanth",
+    "business_entity_id": "1218606000000052330",
+    "total_invoices": 4,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 55208.0,
+    "total_invoiced_inr": 55208.0,
+    "total_paid_original": 55208.0,
+    "total_paid_inr": 55208.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Parking Charges -  Hemalatha Gelli",
+    "business_entity_id": "1218606000000052357",
+    "total_invoices": 4,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 55208.0,
+    "total_invoiced_inr": 55208.0,
+    "total_paid_original": 55208.0,
+    "total_paid_inr": 55208.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "P.S. R Corporate Consultants",
+    "business_entity_id": "1218606000000053048",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 37800.0,
+    "total_invoiced_inr": 37800.0,
+    "total_paid_original": 37800.0,
+    "total_paid_inr": 37800.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "ORIX LEASING-DMFL02000068749 (QU00079359)",
+    "business_entity_id": "1218606000000509001",
+    "total_invoices": 15,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 834610.0,
+    "total_invoiced_inr": 834610.0,
+    "total_paid_original": 834610.0,
+    "total_paid_inr": 834610.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Opsmaven Services Private Limited",
+    "business_entity_id": "1218606000002251005",
+    "total_invoices": 2,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 1381085.0,
+    "total_invoiced_inr": 1381085.0,
+    "total_paid_original": 1381085.0,
+    "total_paid_inr": 1381085.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "NANDISH COMMUNICATION",
+    "business_entity_id": "1218606000000714385",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 270000.0,
+    "total_invoiced_inr": 270000.0,
+    "total_paid_original": 270000.0,
+    "total_paid_inr": 270000.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Ms. Aravapalli Aparna",
+    "business_entity_id": "1218606000000528025",
+    "total_invoices": 11,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 368477.0,
+    "total_invoiced_inr": 368477.0,
+    "total_paid_original": 368477.0,
+    "total_paid_inr": 368477.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Mr. RATHNASABATHY K",
+    "business_entity_id": "1218606000001307025",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 200000.0,
+    "total_invoiced_inr": 200000.0,
+    "total_paid_original": 200000.0,
+    "total_paid_inr": 200000.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Mr. Anju Grover",
+    "business_entity_id": "1218606000000784001",
+    "total_invoices": 18,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 356129.0,
+    "total_invoiced_inr": 356129.0,
+    "total_paid_original": 356129.0,
+    "total_paid_inr": 356129.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "MG CHAIRS & FABRIC",
+    "business_entity_id": "1218606000000216045",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 44250.0,
+    "total_invoiced_inr": 44250.0,
+    "total_paid_original": 44250.0,
+    "total_paid_inr": 44250.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Make my trip",
+    "business_entity_id": "1218606000001956001",
+    "total_invoices": 2,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 34585.0,
+    "total_invoiced_inr": 34585.0,
+    "total_paid_original": 34585.0,
+    "total_paid_inr": 34585.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "M/s Atria Convergence Technologies Pvt Ltd",
+    "business_entity_id": "1218606000000051799",
+    "total_invoices": 28,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 431825.74,
+    "total_invoiced_inr": 431825.74,
+    "total_paid_original": 431825.74,
+    "total_paid_inr": 431825.74,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Leon Technologies Pvt Ltd",
+    "business_entity_id": "1218606000001811032",
+    "total_invoices": 2,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 107618.0,
+    "total_invoiced_inr": 107618.0,
+    "total_paid_original": 107618.0,
+    "total_paid_inr": 107618.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Lemon Tree Hotel Limited",
+    "business_entity_id": "1218606000000051307",
+    "total_invoices": 2,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 131040.0,
+    "total_invoiced_inr": 131040.0,
+    "total_paid_original": 131040.0,
+    "total_paid_inr": 131040.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "KVV Satyanarayana",
+    "business_entity_id": "1218606000001920059",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 170000.0,
+    "total_invoiced_inr": 170000.0,
+    "total_paid_original": 170000.0,
+    "total_paid_inr": 170000.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "KRB Rent - RAJA SATYA VENKATA BADRINATH",
+    "business_entity_id": "1218606000000051148",
+    "total_invoices": 25,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 5749099.4,
+    "total_invoiced_inr": 5749099.4,
+    "total_paid_original": 5749099.4,
+    "total_paid_inr": 5749099.4,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "KRB Rent - MADALA MADHUSUDAN RAO",
+    "business_entity_id": "1218606000000051126",
+    "total_invoices": 25,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 1274175.0,
+    "total_invoiced_inr": 1274175.0,
+    "total_paid_original": 1274175.0,
+    "total_paid_inr": 1274175.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "KRB Rent - MADALA HIMA BINDU",
+    "business_entity_id": "1218606000000051104",
+    "total_invoices": 25,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 1274187.0,
+    "total_invoiced_inr": 1274187.0,
+    "total_paid_original": 1274187.0,
+    "total_paid_inr": 1274187.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "KRB Rent - KANTHETI SATISH",
+    "business_entity_id": "1218606000000051082",
+    "total_invoices": 25,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 4953950.0,
+    "total_invoiced_inr": 4953950.0,
+    "total_paid_original": 4953950.0,
+    "total_paid_inr": 4953950.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "KRB Rent - KANTHETI PRATAP",
+    "business_entity_id": "1218606000000051060",
+    "total_invoices": 25,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 4953950.0,
+    "total_invoiced_inr": 4953950.0,
+    "total_paid_original": 4953950.0,
+    "total_paid_inr": 4953950.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "KRB Rent - GELLI RAMARAO",
+    "business_entity_id": "1218606000000051033",
+    "total_invoices": 25,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 5004462.0,
+    "total_invoiced_inr": 5004462.0,
+    "total_paid_original": 5004462.0,
+    "total_paid_inr": 5004462.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Knowledgehut Solutions Pvt ltd",
+    "business_entity_id": "1218606000000050842",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 226800.0,
+    "total_invoiced_inr": 226800.0,
+    "total_paid_original": 226800.0,
+    "total_paid_inr": 226800.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "KKK Enterprises",
+    "business_entity_id": "1218606000001329128",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 42244.0,
+    "total_invoiced_inr": 42244.0,
+    "total_paid_original": 42244.0,
+    "total_paid_inr": 42244.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Jayata & Associates",
+    "business_entity_id": "1218606000001536309",
+    "total_invoices": 4,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 12000.0,
+    "total_invoiced_inr": 12000.0,
+    "total_paid_original": 12000.0,
+    "total_paid_inr": 12000.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Info Edge (India) Ltd",
+    "business_entity_id": "1218606000000050208",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 410176.0,
+    "total_invoiced_inr": 410176.0,
+    "total_paid_original": 410176.0,
+    "total_paid_inr": 410176.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "ICICI Lombard General Insurance Company Limited",
+    "business_entity_id": "1218606000002800147",
+    "total_invoices": 2,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 3118.0,
+    "total_invoiced_inr": 3118.0,
+    "total_paid_original": 3118.0,
+    "total_paid_inr": 3118.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "I-WIN IP Services",
+    "business_entity_id": "1218606000000050377",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 41400.0,
+    "total_invoiced_inr": 41400.0,
+    "total_paid_original": 41400.0,
+    "total_paid_inr": 41400.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Hotelscart Pvt Ltd",
+    "business_entity_id": "1218606000002092023",
+    "total_invoices": 3,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 47764.0,
+    "total_invoiced_inr": 47764.0,
+    "total_paid_original": 47764.0,
+    "total_paid_inr": 47764.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Gridline Projects",
+    "business_entity_id": "1218606000000049885",
+    "total_invoices": 4,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 1307508.0,
+    "total_invoiced_inr": 1307508.0,
+    "total_paid_original": 1307508.0,
+    "total_paid_inr": 1307508.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "GAMUT Solutions",
+    "business_entity_id": "1218606000000049748",
+    "total_invoices": 3,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 111982.0,
+    "total_invoiced_inr": 111982.0,
+    "total_paid_original": 111982.0,
+    "total_paid_inr": 111982.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Floor World",
+    "business_entity_id": "1218606000002225038",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 70079.0,
+    "total_invoiced_inr": 70079.0,
+    "total_paid_original": 70079.0,
+    "total_paid_inr": 70079.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Flair IT",
+    "business_entity_id": "1218606000001121216",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 28025.0,
+    "total_invoiced_inr": 28025.0,
+    "total_paid_original": 28025.0,
+    "total_paid_inr": 28025.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "FEETAPART WELLNESS PRIVATE LIMITED",
+    "business_entity_id": "1218606000000632047",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 45859.0,
+    "total_invoiced_inr": 45859.0,
+    "total_paid_original": 45859.0,
+    "total_paid_inr": 45859.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Fedex Express Transportation and supply chain",
+    "business_entity_id": "1218606000000906325",
+    "total_invoices": 2,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 37193.04,
+    "total_invoiced_inr": 37193.04,
+    "total_paid_original": 37193.04,
+    "total_paid_inr": 37193.04,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Equipp",
+    "business_entity_id": "1218606000002536131",
+    "total_invoices": 4,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 39825.88,
+    "total_invoiced_inr": 39825.88,
+    "total_paid_original": 39825.88,
+    "total_paid_inr": 39825.88,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Dell International Services India Pvt. Ltd",
+    "business_entity_id": "1218606000000049332",
+    "total_invoices": 9,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 39771.3,
+    "total_invoiced_inr": 39771.3,
+    "total_paid_original": 39771.3,
+    "total_paid_inr": 39771.3,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Daikin Airconditioning India Pvt Ltd",
+    "business_entity_id": "1218606000000049283",
+    "total_invoices": 3,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 538216.0,
+    "total_invoiced_inr": 538216.0,
+    "total_paid_original": 538216.0,
+    "total_paid_inr": 538216.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Computek",
+    "business_entity_id": "1218606000001494001",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 41347.0,
+    "total_invoiced_inr": 41347.0,
+    "total_paid_original": 41347.0,
+    "total_paid_inr": 41347.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "CleanVision",
+    "business_entity_id": "1218606000000049021",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 5280.5,
+    "total_invoiced_inr": 5280.5,
+    "total_paid_original": 5280.5,
+    "total_paid_inr": 5280.5,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Cleangem",
+    "business_entity_id": "1218606000000048999",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 2550.0,
+    "total_invoiced_inr": 2550.0,
+    "total_paid_original": 2550.0,
+    "total_paid_inr": 2550.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Cholamandalam MS General Insurance",
+    "business_entity_id": "1218606000000048955",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 7830.0,
+    "total_invoiced_inr": 7830.0,
+    "total_paid_original": 7830.0,
+    "total_paid_inr": 7830.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Chintamani Infotech",
+    "business_entity_id": "1218606000000048901",
+    "total_invoices": 12,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 75615.0,
+    "total_invoiced_inr": 75615.0,
+    "total_paid_original": 75615.0,
+    "total_paid_inr": 75615.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "BOMMARAJU VENKATA RAMANA",
+    "business_entity_id": "1218606000000048578",
+    "total_invoices": 10,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 1000000.0,
+    "total_invoiced_inr": 1000000.0,
+    "total_paid_original": 1000000.0,
+    "total_paid_inr": 1000000.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Bluecom Technologies Pvt Ltd",
+    "business_entity_id": "1218606000002218209",
+    "total_invoices": 5,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 728430.0,
+    "total_invoiced_inr": 728430.0,
+    "total_paid_original": 728430.0,
+    "total_paid_inr": 728430.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "64 Network Security Pvt Ltd",
+    "business_entity_id": "1218606000001748479",
+    "total_invoices": 2,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 904360.0,
+    "total_invoiced_inr": 904360.0,
+    "total_paid_original": 904360.0,
+    "total_paid_inr": 904360.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Alliance Pro IT pvt ltd",
+    "business_entity_id": "1218606000000257001",
+    "total_invoices": 2,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 259793.0,
+    "total_invoiced_inr": 259793.0,
+    "total_paid_original": 259793.0,
+    "total_paid_inr": 259793.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Arul ADS",
+    "business_entity_id": "1218606000000950260",
+    "total_invoices": 2,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 18139.0,
+    "total_invoiced_inr": 18139.0,
+    "total_paid_original": 18139.0,
+    "total_paid_inr": 18139.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Avanish IT Solutions Pvt Ltd",
+    "business_entity_id": "1218606000002324001",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 174534.0,
+    "total_invoiced_inr": 174534.0,
+    "total_paid_original": 174534.0,
+    "total_paid_inr": 174534.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Ayana Energy Private Limited",
+    "business_entity_id": "1218606000000048113",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 2242.0,
+    "total_invoiced_inr": 2242.0,
+    "total_paid_original": 2242.0,
+    "total_paid_inr": 2242.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Bajaj Electronics",
+    "business_entity_id": "1218606000002192122",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 23000.0,
+    "total_invoiced_inr": 23000.0,
+    "total_paid_original": 23000.0,
+    "total_paid_inr": 23000.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Bathula Harichandana",
+    "business_entity_id": "1218606000000048179",
+    "total_invoices": 3,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 164274.0,
+    "total_invoiced_inr": 164274.0,
+    "total_paid_original": 164274.0,
+    "total_paid_inr": 164274.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Bharti Airtel Limited",
+    "business_entity_id": "1218606000000252001",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 13120.08,
+    "total_invoiced_inr": 13120.08,
+    "total_paid_original": 13120.08,
+    "total_paid_inr": 13120.08,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  }
+]

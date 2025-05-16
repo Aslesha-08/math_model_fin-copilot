@@ -1,0 +1,1144 @@
+﻿[
+  {
+    "business_entity": "Kensium  LLC",
+    "business_entity_id": "1218606000000117023",
+    "total_invoices": 26,
+    "currencies_used": [
+      "USD"
+    ],
+    "total_invoiced_original": 8019922.49,
+    "total_invoiced_inr": 669326581.5,
+    "total_paid_original": 5929537.06,
+    "total_paid_inr": 492143534.3,
+    "total_balance_original": 2090385.43,
+    "total_balance_inr": 177183047.19,
+    "due_invoices": [
+      {
+        "days_overdue": 7,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 83.611363,
+        "total_inr": 27991369.46334487,
+        "balance_original": 334779.49,
+        "invoice_number": "KSPL-2324-2395",
+        "paid_amount_inr": 0.0,
+        "total_original": 334779.49,
+        "currency_code": "USD",
+        "balance_inr": 27991369.46334487
+      },
+      {
+        "days_overdue": 17,
+        "paid_amount_original": 1159.0599999999977,
+        "exchange_rate": 83.88565,
+        "total_inr": 27580343.43525,
+        "balance_original": 327625.94,
+        "invoice_number": "KSPL-2324-2431",
+        "paid_amount_inr": 97228.5014889998,
+        "total_original": 328785.0,
+        "currency_code": "USD",
+        "balance_inr": 27483114.933761
+      },
+      {
+        "days_overdue": 17,
+        "paid_amount_original": 50000.0,
+        "exchange_rate": 83.7888,
+        "total_inr": 22107591.091199998,
+        "balance_original": 213849.0,
+        "invoice_number": "KSPL-2425-2437",
+        "paid_amount_inr": 4189439.9999999995,
+        "total_original": 263849.0,
+        "currency_code": "USD",
+        "balance_inr": 17918151.091199998
+      },
+      {
+        "days_overdue": -14,
+        "paid_amount_original": 49965.0,
+        "exchange_rate": 84.0886,
+        "total_inr": 23195251.6898,
+        "balance_original": 225878.0,
+        "invoice_number": "KSPL-2425-2456",
+        "paid_amount_inr": 4201486.899,
+        "total_original": 275843.0,
+        "currency_code": "USD",
+        "balance_inr": 18993764.7908
+      },
+      {
+        "days_overdue": -12,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 84.4971,
+        "total_inr": 11693891.6574,
+        "balance_original": 138394.0,
+        "invoice_number": "KSPL-2425-2470",
+        "paid_amount_inr": 0.0,
+        "total_original": 138394.0,
+        "currency_code": "USD",
+        "balance_inr": 11693891.6574
+      },
+      {
+        "days_overdue": -14,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 85.6232,
+        "total_inr": 13825749.350399999,
+        "balance_original": 161472.0,
+        "invoice_number": "KSPL-2425-2486",
+        "paid_amount_inr": 0.0,
+        "total_original": 161472.0,
+        "currency_code": "USD",
+        "balance_inr": 13825749.350399999
+      },
+      {
+        "days_overdue": -14,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 86.6414,
+        "total_inr": 15548319.0784,
+        "balance_original": 179456.0,
+        "invoice_number": "KSPL-2425-2500",
+        "paid_amount_inr": 0.0,
+        "total_original": 179456.0,
+        "currency_code": "USD",
+        "balance_inr": 15548319.0784
+      },
+      {
+        "days_overdue": -11,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 87.4006,
+        "total_inr": 14030330.917399999,
+        "balance_original": 160529.0,
+        "invoice_number": "KSPL-2425-2518",
+        "paid_amount_inr": 0.0,
+        "total_original": 160529.0,
+        "currency_code": "USD",
+        "balance_inr": 14030330.917399999
+      },
+      {
+        "days_overdue": -12,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 85.429165,
+        "total_inr": 14905766.138365,
+        "balance_original": 174481.0,
+        "invoice_number": "KSPL-2425-2532",
+        "paid_amount_inr": 0.0,
+        "total_original": 174481.0,
+        "currency_code": "USD",
+        "balance_inr": 14905766.138365
+      },
+      {
+        "days_overdue": -11,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 85.0535,
+        "total_inr": 14792589.7735,
+        "balance_original": 173921.0,
+        "invoice_number": "KSPL-2526-0015",
+        "paid_amount_inr": 0.0,
+        "total_original": 173921.0,
+        "currency_code": "USD",
+        "balance_inr": 14792589.7735
+      }
+    ]
+  },
+  {
+    "business_entity": "Scalers Operations Pvt. Ltd",
+    "business_entity_id": "1218606000000143017",
+    "total_invoices": 13,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 11384209.48,
+    "total_invoiced_inr": 11384209.48,
+    "total_paid_original": 9181378.48,
+    "total_paid_inr": 9181378.48,
+    "total_balance_original": 2202831.0,
+    "total_balance_inr": 2202831.0,
+    "due_invoices": [
+      {
+        "days_overdue": -23,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 2202831.0,
+        "balance_original": 2202831.0,
+        "invoice_number": "KSPL-2526-0010",
+        "paid_amount_inr": 0.0,
+        "total_original": 2202831.0,
+        "currency_code": "INR",
+        "balance_inr": 2202831.0
+      }
+    ]
+  },
+  {
+    "business_entity": "Readywire Private Ltd",
+    "business_entity_id": "1218606000000038948",
+    "total_invoices": 49,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 5976789.99,
+    "total_invoiced_inr": 5976789.99,
+    "total_paid_original": 3806369.92,
+    "total_paid_inr": 3806369.92,
+    "total_balance_original": 2170420.07,
+    "total_balance_inr": 2170420.07,
+    "due_invoices": [
+      {
+        "days_overdue": 15,
+        "paid_amount_original": 24669.27,
+        "exchange_rate": 1.0,
+        "total_inr": 29905.56,
+        "balance_original": 5236.29,
+        "invoice_number": "KSPL-2324-2372",
+        "paid_amount_inr": 24669.27,
+        "total_original": 29905.56,
+        "currency_code": "INR",
+        "balance_inr": 5236.29
+      },
+      {
+        "days_overdue": 26,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 4307.0,
+        "balance_original": 4307.0,
+        "invoice_number": "KSPL-2324-2380",
+        "paid_amount_inr": 0.0,
+        "total_original": 4307.0,
+        "currency_code": "INR",
+        "balance_inr": 4307.0
+      },
+      {
+        "days_overdue": 24,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 326.06,
+        "balance_original": 326.06,
+        "invoice_number": "KSPL-2425-2410",
+        "paid_amount_inr": 0.0,
+        "total_original": 326.06,
+        "currency_code": "INR",
+        "balance_inr": 326.06
+      },
+      {
+        "days_overdue": 17,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 63.98,
+        "balance_original": 63.98,
+        "invoice_number": "KSPL-2425-2417",
+        "paid_amount_inr": 0.0,
+        "total_original": 63.98,
+        "currency_code": "INR",
+        "balance_inr": 63.98
+      },
+      {
+        "days_overdue": 0,
+        "paid_amount_original": 51662.600000000006,
+        "exchange_rate": 1.0,
+        "total_inr": 53968.8,
+        "balance_original": 2306.2,
+        "invoice_number": "KSPL-2425-2422",
+        "paid_amount_inr": 51662.600000000006,
+        "total_original": 53968.8,
+        "currency_code": "INR",
+        "balance_inr": 2306.2
+      },
+      {
+        "days_overdue": 19,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 35.55,
+        "balance_original": 35.55,
+        "invoice_number": "KSPL-2425-2423",
+        "paid_amount_inr": 0.0,
+        "total_original": 35.55,
+        "currency_code": "INR",
+        "balance_inr": 35.55
+      },
+      {
+        "days_overdue": 7,
+        "paid_amount_original": 1190055.95,
+        "exchange_rate": 1.0,
+        "total_inr": 3020338.46,
+        "balance_original": 1830282.51,
+        "invoice_number": "KSPL-2425-2432",
+        "paid_amount_inr": 1190055.95,
+        "total_original": 3020338.46,
+        "currency_code": "INR",
+        "balance_inr": 1830282.51
+      },
+      {
+        "days_overdue": 6,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 56257.9,
+        "balance_original": 56257.9,
+        "invoice_number": "KSPL-2425-2434",
+        "paid_amount_inr": 0.0,
+        "total_original": 56257.9,
+        "currency_code": "INR",
+        "balance_inr": 56257.9
+      },
+      {
+        "days_overdue": 0,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 13752.9,
+        "balance_original": 13752.9,
+        "invoice_number": "KSPL-2425-2450",
+        "paid_amount_inr": 0.0,
+        "total_original": 13752.9,
+        "currency_code": "INR",
+        "balance_inr": 13752.9
+      },
+      {
+        "days_overdue": 0,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 13752.9,
+        "balance_original": 13752.9,
+        "invoice_number": "KSPL-2425-2451",
+        "paid_amount_inr": 0.0,
+        "total_original": 13752.9,
+        "currency_code": "INR",
+        "balance_inr": 13752.9
+      },
+      {
+        "days_overdue": 1,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 13818.98,
+        "balance_original": 13818.98,
+        "invoice_number": "KSPL-2425-2464",
+        "paid_amount_inr": 0.0,
+        "total_original": 13818.98,
+        "currency_code": "INR",
+        "balance_inr": 13818.98
+      },
+      {
+        "days_overdue": 1,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 60400.24,
+        "balance_original": 60400.24,
+        "invoice_number": "KSPL-2425-2465",
+        "paid_amount_inr": 0.0,
+        "total_original": 60400.24,
+        "currency_code": "INR",
+        "balance_inr": 60400.24
+      },
+      {
+        "days_overdue": 0,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 42150.0,
+        "balance_original": 42150.0,
+        "invoice_number": "KSPL-2425-2480",
+        "paid_amount_inr": 0.0,
+        "total_original": 42150.0,
+        "currency_code": "INR",
+        "balance_inr": 42150.0
+      },
+      {
+        "days_overdue": 29,
+        "paid_amount_original": 28171.440000000002,
+        "exchange_rate": 1.0,
+        "total_inr": 69030.0,
+        "balance_original": 40858.56,
+        "invoice_number": "KSPL-2425-2484",
+        "paid_amount_inr": 28171.440000000002,
+        "total_original": 69030.0,
+        "currency_code": "INR",
+        "balance_inr": 40858.56
+      },
+      {
+        "days_overdue": 0,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 42150.0,
+        "balance_original": 42150.0,
+        "invoice_number": "KSPL-2425-2492",
+        "paid_amount_inr": 0.0,
+        "total_original": 42150.0,
+        "currency_code": "INR",
+        "balance_inr": 42150.0
+      },
+      {
+        "days_overdue": 0,
+        "paid_amount_original": 39579.0,
+        "exchange_rate": 1.0,
+        "total_inr": 42150.0,
+        "balance_original": 2571.0,
+        "invoice_number": "KSPL-2425-2506",
+        "paid_amount_inr": 39579.0,
+        "total_original": 42150.0,
+        "currency_code": "INR",
+        "balance_inr": 2571.0
+      },
+      {
+        "days_overdue": 0,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 42150.0,
+        "balance_original": 42150.0,
+        "invoice_number": "KSPL-2526-0008",
+        "paid_amount_inr": 0.0,
+        "total_original": 42150.0,
+        "currency_code": "INR",
+        "balance_inr": 42150.0
+      }
+    ]
+  },
+  {
+    "business_entity": "UnifiCX Inc",
+    "business_entity_id": "1218606000002454001",
+    "total_invoices": 8,
+    "currencies_used": [
+      "USD"
+    ],
+    "total_invoiced_original": 130403.3,
+    "total_invoiced_inr": 11265377.6,
+    "total_paid_original": 107382.78,
+    "total_paid_inr": 9307401.8,
+    "total_balance_original": 23020.52,
+    "total_balance_inr": 1957975.8,
+    "due_invoices": [
+      {
+        "days_overdue": 0,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 85.0535,
+        "total_inr": 528964.7272,
+        "balance_original": 6219.2,
+        "invoice_number": "KSPL-2526-0011",
+        "paid_amount_inr": 0.0,
+        "total_original": 6219.2,
+        "currency_code": "USD",
+        "balance_inr": 528964.7272
+      },
+      {
+        "days_overdue": 0,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 85.0535,
+        "total_inr": 1429011.07062,
+        "balance_original": 16801.32,
+        "invoice_number": "KSPL-2526-0012",
+        "paid_amount_inr": 0.0,
+        "total_original": 16801.32,
+        "currency_code": "USD",
+        "balance_inr": 1429011.07062
+      }
+    ]
+  },
+  {
+    "business_entity": "247 Digitize Private Limited",
+    "business_entity_id": "1218606000001107003",
+    "total_invoices": 24,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 11529282.3,
+    "total_invoiced_inr": 11529282.3,
+    "total_paid_original": 10119573.6,
+    "total_paid_inr": 10119573.6,
+    "total_balance_original": 1409708.7,
+    "total_balance_inr": 1409708.7,
+    "due_invoices": [
+      {
+        "days_overdue": 27,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 231245.0,
+        "balance_original": 231245.0,
+        "invoice_number": "KSPL-2425-2514",
+        "paid_amount_inr": 0.0,
+        "total_original": 231245.0,
+        "currency_code": "INR",
+        "balance_inr": 231245.0
+      },
+      {
+        "days_overdue": 29,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 326712.9,
+        "balance_original": 326712.9,
+        "invoice_number": "KSPL-2526-0002",
+        "paid_amount_inr": 0.0,
+        "total_original": 326712.9,
+        "currency_code": "INR",
+        "balance_inr": 326712.9
+      },
+      {
+        "days_overdue": 0,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 596962.44,
+        "balance_original": 596962.44,
+        "invoice_number": "KSPL-2526-0005",
+        "paid_amount_inr": 0.0,
+        "total_original": 596962.44,
+        "currency_code": "INR",
+        "balance_inr": 596962.44
+      },
+      {
+        "days_overdue": -2,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 254788.36,
+        "balance_original": 254788.36,
+        "invoice_number": "KSPL-2526-00014",
+        "paid_amount_inr": 0.0,
+        "total_original": 254788.36,
+        "currency_code": "INR",
+        "balance_inr": 254788.36
+      }
+    ]
+  },
+  {
+    "business_entity": "Net at Work India Private Limited",
+    "business_entity_id": "1218606000002818018",
+    "total_invoices": 4,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 5612171.99,
+    "total_invoiced_inr": 5612171.99,
+    "total_paid_original": 4704637.07,
+    "total_paid_inr": 4704637.07,
+    "total_balance_original": 907534.92,
+    "total_balance_inr": 907534.92,
+    "due_invoices": [
+      {
+        "days_overdue": 0,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 626196.96,
+        "balance_original": 626196.96,
+        "invoice_number": "KSPL-2526-0004",
+        "paid_amount_inr": 0.0,
+        "total_original": 626196.96,
+        "currency_code": "INR",
+        "balance_inr": 626196.96
+      },
+      {
+        "days_overdue": -2,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 281337.96,
+        "balance_original": 281337.96,
+        "invoice_number": "KSPL-2526-00013",
+        "paid_amount_inr": 0.0,
+        "total_original": 281337.96,
+        "currency_code": "INR",
+        "balance_inr": 281337.96
+      }
+    ]
+  },
+  {
+    "business_entity": "ProFinTech Technologies Pvt Ltd.",
+    "business_entity_id": "1218606000002112001",
+    "total_invoices": 10,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 1357642.34,
+    "total_invoiced_inr": 1357642.34,
+    "total_paid_original": 702637.34,
+    "total_paid_inr": 702637.34,
+    "total_balance_original": 655005.0,
+    "total_balance_inr": 655005.0,
+    "due_invoices": [
+      {
+        "days_overdue": 18,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 118000.0,
+        "balance_original": 118000.0,
+        "invoice_number": "KSPL-2425-2466",
+        "paid_amount_inr": 0.0,
+        "total_original": 118000.0,
+        "currency_code": "INR",
+        "balance_inr": 118000.0
+      },
+      {
+        "days_overdue": 15,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 168599.0,
+        "balance_original": 168599.0,
+        "invoice_number": "KSPL-2425-2526",
+        "paid_amount_inr": 0.0,
+        "total_original": 168599.0,
+        "currency_code": "INR",
+        "balance_inr": 168599.0
+      },
+      {
+        "days_overdue": -15,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 168599.0,
+        "balance_original": 168599.0,
+        "invoice_number": "KSPL-2526-0009",
+        "paid_amount_inr": 0.0,
+        "total_original": 168599.0,
+        "currency_code": "INR",
+        "balance_inr": 168599.0
+      },
+      {
+        "days_overdue": -24,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 199807.0,
+        "balance_original": 199807.0,
+        "invoice_number": "KSPL-2526-00015",
+        "paid_amount_inr": 0.0,
+        "total_original": 199807.0,
+        "currency_code": "INR",
+        "balance_inr": 199807.0
+      }
+    ]
+  },
+  {
+    "business_entity": "Net at Work LLC",
+    "business_entity_id": "1218606000001758001",
+    "total_invoices": 25,
+    "currencies_used": [
+      "USD"
+    ],
+    "total_invoiced_original": 598387.82,
+    "total_invoiced_inr": 51004044.09,
+    "total_paid_original": 591273.82,
+    "total_paid_inr": 50395207.48,
+    "total_balance_original": 7114.0,
+    "total_balance_inr": 608836.61,
+    "due_invoices": [
+      {
+        "days_overdue": 0,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 85.5814,
+        "total_inr": 605060.498,
+        "balance_original": 7070.0,
+        "invoice_number": "KSPL-2425-2522",
+        "paid_amount_inr": 0.0,
+        "total_original": 7070.0,
+        "currency_code": "USD",
+        "balance_inr": 605060.498
+      }
+    ]
+  },
+  {
+    "business_entity": "Opsmaven Services Private Limited",
+    "business_entity_id": "1218606000002121074",
+    "total_invoices": 7,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 2581677.62,
+    "total_invoiced_inr": 2581677.62,
+    "total_paid_original": 2212868.62,
+    "total_paid_inr": 2212868.62,
+    "total_balance_original": 368809.0,
+    "total_balance_inr": 368809.0,
+    "due_invoices": [
+      {
+        "days_overdue": 0,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 368809.0,
+        "balance_original": 368809.0,
+        "invoice_number": "KSPL-2526-0006",
+        "paid_amount_inr": 0.0,
+        "total_original": 368809.0,
+        "currency_code": "INR",
+        "balance_inr": 368809.0
+      }
+    ]
+  },
+  {
+    "business_entity": "The American India Foundation Trust",
+    "business_entity_id": "1218606000000039398",
+    "total_invoices": 34,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 6028117.4,
+    "total_invoiced_inr": 6028117.4,
+    "total_paid_original": 5827898.31,
+    "total_paid_inr": 5827898.31,
+    "total_balance_original": 200219.09,
+    "total_balance_inr": 200219.09,
+    "due_invoices": [
+      {
+        "days_overdue": 10,
+        "paid_amount_original": 46956.6,
+        "exchange_rate": 1.0,
+        "total_inr": 51304.04,
+        "balance_original": 4347.44,
+        "invoice_number": "KSPL-2324-2338",
+        "paid_amount_inr": 46956.6,
+        "total_original": 51304.04,
+        "currency_code": "INR",
+        "balance_inr": 4347.44
+      },
+      {
+        "days_overdue": 10,
+        "paid_amount_original": 135000.0,
+        "exchange_rate": 1.0,
+        "total_inr": 147500.0,
+        "balance_original": 12500.0,
+        "invoice_number": "KSPL-2324-2339",
+        "paid_amount_inr": 135000.0,
+        "total_original": 147500.0,
+        "currency_code": "INR",
+        "balance_inr": 12500.0
+      },
+      {
+        "days_overdue": 10,
+        "paid_amount_original": 135000.0,
+        "exchange_rate": 1.0,
+        "total_inr": 147500.0,
+        "balance_original": 12500.0,
+        "invoice_number": "KSPL-2324-2350",
+        "paid_amount_inr": 135000.0,
+        "total_original": 147500.0,
+        "currency_code": "INR",
+        "balance_inr": 12500.0
+      },
+      {
+        "days_overdue": 7,
+        "paid_amount_original": 241911.0,
+        "exchange_rate": 1.0,
+        "total_inr": 264310.0,
+        "balance_original": 22399.0,
+        "invoice_number": "KSPL-2324-2351",
+        "paid_amount_inr": 241911.0,
+        "total_original": 264310.0,
+        "currency_code": "INR",
+        "balance_inr": 22399.0
+      },
+      {
+        "days_overdue": 9,
+        "paid_amount_original": 135000.0,
+        "exchange_rate": 1.0,
+        "total_inr": 147500.0,
+        "balance_original": 12500.0,
+        "invoice_number": "KSPL-2324-2356",
+        "paid_amount_inr": 135000.0,
+        "total_original": 147500.0,
+        "currency_code": "INR",
+        "balance_inr": 12500.0
+      },
+      {
+        "days_overdue": 9,
+        "paid_amount_original": 241947.0,
+        "exchange_rate": 1.0,
+        "total_inr": 264350.0,
+        "balance_original": 22403.0,
+        "invoice_number": "KSPL-2324-2357",
+        "paid_amount_inr": 241947.0,
+        "total_original": 264350.0,
+        "currency_code": "INR",
+        "balance_inr": 22403.0
+      },
+      {
+        "days_overdue": 20,
+        "paid_amount_original": 231070.0,
+        "exchange_rate": 1.0,
+        "total_inr": 252435.0,
+        "balance_original": 21365.0,
+        "invoice_number": "KSPL-2324-2301",
+        "paid_amount_inr": 231070.0,
+        "total_original": 252435.0,
+        "currency_code": "INR",
+        "balance_inr": 21365.0
+      },
+      {
+        "days_overdue": 22,
+        "paid_amount_original": 240585.34999999998,
+        "exchange_rate": 1.0,
+        "total_inr": 262862.42,
+        "balance_original": 22277.07,
+        "invoice_number": "KSPL-2324-2305",
+        "paid_amount_inr": 240585.34999999998,
+        "total_original": 262862.42,
+        "currency_code": "INR",
+        "balance_inr": 22277.07
+      },
+      {
+        "days_overdue": 11,
+        "paid_amount_original": 249909.66999999998,
+        "exchange_rate": 1.0,
+        "total_inr": 273050.31,
+        "balance_original": 23140.64,
+        "invoice_number": "KSPL-2425-2412",
+        "paid_amount_inr": 249909.66999999998,
+        "total_original": 273050.31,
+        "currency_code": "INR",
+        "balance_inr": 23140.64
+      },
+      {
+        "days_overdue": 12,
+        "paid_amount_original": 263903.0,
+        "exchange_rate": 1.0,
+        "total_inr": 273153.0,
+        "balance_original": 9250.0,
+        "invoice_number": "KSPL-2425-2419",
+        "paid_amount_inr": 263903.0,
+        "total_original": 273153.0,
+        "currency_code": "INR",
+        "balance_inr": 9250.0
+      },
+      {
+        "days_overdue": 19,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 3551.8,
+        "balance_original": 3551.8,
+        "invoice_number": "KSPL-2425-2428",
+        "paid_amount_inr": 0.0,
+        "total_original": 3551.8,
+        "currency_code": "INR",
+        "balance_inr": 3551.8
+      },
+      {
+        "days_overdue": -15,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 33984.0,
+        "balance_original": 33984.0,
+        "invoice_number": "KSPL-2526-0003",
+        "paid_amount_inr": 0.0,
+        "total_original": 33984.0,
+        "currency_code": "INR",
+        "balance_inr": 33984.0
+      }
+    ]
+  },
+  {
+    "business_entity": "Digiteon Consulting Pvt Ltd",
+    "business_entity_id": "1218606000000037776",
+    "total_invoices": 7,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 1106432.36,
+    "total_invoiced_inr": 1106432.36,
+    "total_paid_original": 948371.36,
+    "total_paid_inr": 948371.36,
+    "total_balance_original": 158061.0,
+    "total_balance_inr": 158061.0,
+    "due_invoices": [
+      {
+        "days_overdue": 0,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 1.0,
+        "total_inr": 158061.0,
+        "balance_original": 158061.0,
+        "invoice_number": "KSPL-2526-0007",
+        "paid_amount_inr": 0.0,
+        "total_original": 158061.0,
+        "currency_code": "INR",
+        "balance_inr": 158061.0
+      }
+    ]
+  },
+  {
+    "business_entity": "SMART PRO IT SOLUTIONS LLC",
+    "business_entity_id": "1218606000000114179",
+    "total_invoices": 5,
+    "currencies_used": [
+      "USD"
+    ],
+    "total_invoiced_original": 4512.77,
+    "total_invoiced_inr": 372159.04,
+    "total_paid_original": 2764.0,
+    "total_paid_inr": 227027.62,
+    "total_balance_original": 1748.77,
+    "total_balance_inr": 145131.42,
+    "due_invoices": [
+      {
+        "days_overdue": 1,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 82.9521,
+        "total_inr": 126336.04830000001,
+        "balance_original": 1523.0,
+        "invoice_number": "KSPL-2324-2334",
+        "paid_amount_inr": 0.0,
+        "total_original": 1523.0,
+        "currency_code": "USD",
+        "balance_inr": 126336.04830000001
+      },
+      {
+        "days_overdue": 6,
+        "paid_amount_original": 0.0,
+        "exchange_rate": 83.2542,
+        "total_inr": 18732.195,
+        "balance_original": 225.0,
+        "invoice_number": "KSPL-2324-2355",
+        "paid_amount_inr": 0.0,
+        "total_original": 225.0,
+        "currency_code": "USD",
+        "balance_inr": 18732.195
+      }
+    ]
+  },
+  {
+    "business_entity": "Optima Techno Services",
+    "business_entity_id": "1218606000001928307",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 27615.0,
+    "total_invoiced_inr": 27615.0,
+    "total_paid_original": 21450.0,
+    "total_paid_inr": 21450.0,
+    "total_balance_original": 6165.0,
+    "total_balance_inr": 6165.0,
+    "due_invoices": [
+      {
+        "days_overdue": 19,
+        "paid_amount_original": 21450.0,
+        "exchange_rate": 1.0,
+        "total_inr": 27615.0,
+        "balance_original": 6165.0,
+        "invoice_number": "KSPL-2425-2516",
+        "paid_amount_inr": 21450.0,
+        "total_original": 27615.0,
+        "currency_code": "INR",
+        "balance_inr": 6165.0
+      }
+    ]
+  },
+  {
+    "business_entity": "King Khalid Foundation",
+    "business_entity_id": "1218606000000113794",
+    "total_invoices": 1,
+    "currencies_used": [
+      "USD"
+    ],
+    "total_invoiced_original": 630.0,
+    "total_invoiced_inr": 51770.89,
+    "total_paid_original": 607.5,
+    "total_paid_inr": 49921.93,
+    "total_balance_original": 22.5,
+    "total_balance_inr": 1848.96,
+    "due_invoices": [
+      {
+        "days_overdue": 18,
+        "paid_amount_original": 607.5,
+        "exchange_rate": 82.176021,
+        "total_inr": 51770.89323,
+        "balance_original": 22.5,
+        "invoice_number": "KSPL-2324-2328",
+        "paid_amount_inr": 49921.932757500006,
+        "total_original": 630.0,
+        "currency_code": "USD",
+        "balance_inr": 1848.9604725000002
+      }
+    ]
+  },
+  {
+    "business_entity": "SWASTI POWER PRIVATE LIMITED",
+    "business_entity_id": "1218606000000189093",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 84959.29,
+    "total_invoiced_inr": 84959.29,
+    "total_paid_original": 83519.29,
+    "total_paid_inr": 83519.29,
+    "total_balance_original": 1440.0,
+    "total_balance_inr": 1440.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "WIDASCONCEPTS INDIA PRIVATE LIMITED",
+    "business_entity_id": "1218606000002742029",
+    "total_invoices": 3,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 2604733.0,
+    "total_invoiced_inr": 2604733.0,
+    "total_paid_original": 2604733.0,
+    "total_paid_inr": 2604733.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Vishvarupa Solar Power Private Limited",
+    "business_entity_id": "1218606000000039623",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 11062.5,
+    "total_invoiced_inr": 11062.5,
+    "total_paid_original": 11062.5,
+    "total_paid_inr": 11062.5,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Varishtha Infotech",
+    "business_entity_id": "1218606000001173015",
+    "total_invoices": 1,
+    "currencies_used": [
+      "USD"
+    ],
+    "total_invoiced_original": 997.0,
+    "total_invoiced_inr": 83104.54,
+    "total_paid_original": 997.0,
+    "total_paid_inr": 83104.54,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Suvarchas Solar Power Private Limited",
+    "business_entity_id": "1218606000000039349",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 11062.5,
+    "total_invoiced_inr": 11062.5,
+    "total_paid_original": 11062.5,
+    "total_paid_inr": 11062.5,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Sunborne Energy Andhra Private Limited Domnicus",
+    "business_entity_id": "1218606000000039322",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 11062.5,
+    "total_invoiced_inr": 11062.5,
+    "total_paid_original": 11062.5,
+    "total_paid_inr": 11062.5,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Ratnagiri Wind Power Projects Pvt. Ltd.",
+    "business_entity_id": "1218606000000038899",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 5310.0,
+    "total_invoiced_inr": 5310.0,
+    "total_paid_original": 5310.0,
+    "total_paid_inr": 5310.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Pennar Renewables",
+    "business_entity_id": "1218606000000038850",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 11062.5,
+    "total_invoiced_inr": 11062.5,
+    "total_paid_original": 11062.5,
+    "total_paid_inr": 11062.5,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "P.B.L. TRANSPORT CORPORATION PRIVATE LIMITED",
+    "business_entity_id": "1218606000000484003",
+    "total_invoices": 3,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 1213505.14,
+    "total_invoiced_inr": 1213505.14,
+    "total_paid_original": 1213505.14,
+    "total_paid_inr": 1213505.14,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "NARNE ESTATES PRIVATE LTD",
+    "business_entity_id": "1218606000000038642",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 100359.0,
+    "total_invoiced_inr": 100359.0,
+    "total_paid_original": 100359.0,
+    "total_paid_inr": 100359.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "M/S SWASTI POWER LIMITED",
+    "business_entity_id": "1218606000000775005",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 23600.0,
+    "total_invoiced_inr": 23600.0,
+    "total_paid_original": 23600.0,
+    "total_paid_inr": 23600.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Bharat Biotech",
+    "business_entity_id": "1218606000000037414",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 47200.0,
+    "total_invoiced_inr": 47200.0,
+    "total_paid_original": 47200.0,
+    "total_paid_inr": 47200.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "BRISTLECONE INDIA LIMITED",
+    "business_entity_id": "1218606000000683003",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 675230.74,
+    "total_invoiced_inr": 675230.74,
+    "total_paid_original": 675230.74,
+    "total_paid_inr": 675230.74,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  },
+  {
+    "business_entity": "Greenko Budhil Hydro Power Pvt Ltd",
+    "business_entity_id": "1218606000000038050",
+    "total_invoices": 1,
+    "currencies_used": [
+      "INR"
+    ],
+    "total_invoiced_original": 1770.0,
+    "total_invoiced_inr": 1770.0,
+    "total_paid_original": 1770.0,
+    "total_paid_inr": 1770.0,
+    "total_balance_original": 0.0,
+    "total_balance_inr": 0.0,
+    "due_invoices": []
+  }
+]
